@@ -1,5 +1,5 @@
 -z +*.pdf -%A pdf=application/octet-stream -iC2 www.closethedoor.org.uk
-File generated automatically on Fri, 28 Jul 2023 13:45:10, do NOT edit
+File generated automatically on Fri, 28 Jul 2023 14:17:59, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
