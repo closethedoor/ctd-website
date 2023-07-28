@@ -1,0 +1,1183 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 28 Jul 2023 13:45:10 at +*.pdf www.closethedoor.org.uk
+(httrack -z +*.pdf -%A pdf=application/octet-stream -iC2 www.closethedoor.org.uk )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:45:10	Info: 	engine: start
+13:45:10	Info: 	Warning: could not detect encoding for: primary/primary
+13:45:10	Info: 	engine: check-html: primary/primary
+13:45:11	Info: 	engine: transfer-status: link error (-1, 'Open error when decompressing (can not create temporary file /tmp0.z)'): www.closethedoor.org.uk/robots.txt
+13:45:11	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/ -> www.closethedoor.org.uk/index.html
+13:45:12	Info: 	engine: check-html: www.closethedoor.org.uk/
+13:45:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/theme_slate/themes/slate/columnal.css -> www.closethedoor.org.uk/packages/theme_slate/themes/slate/columnal.css
+13:45:13	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/css/slate/typography.css -> www.closethedoor.org.uk/files/cache/css/slate/typography.css
+13:45:14	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/css/slate/main.css -> www.closethedoor.org.uk/files/cache/css/slate/main.css
+13:45:15	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/theme_slate/themes/slate/mobile.css -> www.closethedoor.org.uk/packages/theme_slate/themes/slate/mobile.css
+13:45:16	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/index.php -> www.closethedoor.org.uk/index-2.html
+13:45:17	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/ccm.base.css?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/ccm.base0da7.css
+13:45:20	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/js/jquery.js?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/js/jquery0da7.js
+13:45:20	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/js/jquery0da7.js
+13:45:20	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/js/ccm.base.js?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/js/ccm.base0da7.js
+13:45:20	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/js/ccm.base0da7.js
+13:45:20	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/css/smoothDivScroll.css?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/css/smoothDivScroll0da7.css
+13:45:21	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/css/magnific.css?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/css/magnific0da7.css
+13:45:22	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/css/smooth.css?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/css/smooth0da7.css
+13:45:23	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/jquery.ui.css?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/jquery.ui0da7.css
+13:45:26	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/js_manual/jquery.kinetic.js?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/js_manual/jquery.kinetic0da7.js
+13:45:26	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/js/jquery.ui.js?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/js/jquery.ui0da7.js
+13:45:26	Info: 	File successfully written in background: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/js_manual/jquery.kinetic0da7.js
+13:45:26	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/js/jquery.ui0da7.js
+13:45:28	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/js_manual/jquery.mousewheel.min.js?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/js_manual/jquery.mousewheel.min0da7.js
+13:45:28	Info: 	File successfully written in background: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/js_manual/jquery.mousewheel.min0da7.js
+13:45:28	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/js_manual/smooth.js?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/js_manual/smooth0da7.js
+13:45:28	Info: 	File successfully written in background: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/js_manual/smooth0da7.js
+13:45:28	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/css/unoslider.css?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/css/unoslider0da7.css
+13:45:29	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/css/themes.css?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/css/themes0da7.css
+13:45:30	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/js/unoslider.js?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/js/unoslider0da7.js
+13:45:31	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/superfish.js -> www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/superfish.js
+13:45:32	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.mousewheel-3.0.4.pack.js -> www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.mousewheel-3.0.4.pack.js
+13:45:33	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.pack.js -> www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.pack.js
+13:45:34	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css -> www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css
+13:45:35	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/functions.js -> www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/functions.js
+13:45:38	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/8014/4170/4472/site_logo_2015_v1.png -> www.closethedoor.org.uk/files/8014/4170/4472/site_logo_2015_v1.png
+13:45:38	Info: 	File successfully written in background: www.closethedoor.org.uk/files/8014/4170/4472/site_logo_2015_v1.png
+13:45:40	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/9313/5991/3182/topright-banner.png -> www.closethedoor.org.uk/files/9313/5991/3182/topright-banner.png
+13:45:40	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/7013/5991/0575/facebook.png -> www.closethedoor.org.uk/files/7013/5991/0575/facebook.png
+13:45:40	Info: 	File successfully written in background: www.closethedoor.org.uk/files/9313/5991/3182/topright-banner.png
+13:45:40	Info: 	File successfully written in background: www.closethedoor.org.uk/files/7013/5991/0575/facebook.png
+13:45:40	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/about-us/ -> www.closethedoor.org.uk/about-us/index.html
+13:45:40	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/about-us/contact-us/ -> www.closethedoor.org.uk/about-us/contact-us/index.html
+13:45:40	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/4213/5991/0577/twitter.png -> www.closethedoor.org.uk/files/4213/5991/0577/twitter.png
+13:45:41	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/about-us/faqs/ -> www.closethedoor.org.uk/about-us/faqs/index.html
+13:45:41	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/about-us/our-research/ -> www.closethedoor.org.uk/about-us/our-research/index.html
+13:45:41	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/get-involved/ -> www.closethedoor.org.uk/get-involved/index.html
+13:45:42	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/about-us/materials/ -> www.closethedoor.org.uk/about-us/materials/index.html
+13:45:44	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/get-involved/retailers/ -> www.closethedoor.org.uk/get-involved/retailers/index.html
+13:45:44	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/get-involved/campaigners/ -> www.closethedoor.org.uk/get-involved/campaigners/index.html
+13:45:44	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/get-involved/campaigners1/ -> www.closethedoor.org.uk/get-involved/campaigners1/index.html
+13:45:46	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/ -> www.closethedoor.org.uk/support/index.html
+13:45:46	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/ -> www.closethedoor.org.uk/support/participating-retailers/index.html
+13:45:48	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/3714/5684/6555/sustainable-cities.png -> www.closethedoor.org.uk/files/3714/5684/6555/sustainable-cities.png
+13:45:48	Info: 	File successfully written in background: www.closethedoor.org.uk/files/3714/5684/6555/sustainable-cities.png
+13:45:48	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/ -> www.closethedoor.org.uk/support/endorsements/index.html
+13:45:50	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/ -> www.closethedoor.org.uk/news/index.html
+13:45:52	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/1914/4923/3199/hm.png -> www.closethedoor.org.uk/files/1914/4923/3199/hm.png
+13:45:52	Info: 	File successfully written in background: www.closethedoor.org.uk/files/1914/4923/3199/hm.png
+13:45:54	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/search/ -> www.closethedoor.org.uk/search/index.html
+13:45:56	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/4814/2678/5909/air-quality-research.jpg -> www.closethedoor.org.uk/files/4814/2678/5909/air-quality-research.jpg
+13:45:56	Info: 	File successfully written in background: www.closethedoor.org.uk/files/4814/2678/5909/air-quality-research.jpg
+13:45:56	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/6614/5684/6050/geze-balloon.jpg -> www.closethedoor.org.uk/files/6614/5684/6050/geze-balloon.jpg
+13:45:56	Info: 	File successfully written in background: www.closethedoor.org.uk/files/6614/5684/6050/geze-balloon.jpg
+13:45:57	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/4714/2538/5142/home-retail-group.jpg -> www.closethedoor.org.uk/files/4714/2538/5142/home-retail-group.jpg
+13:45:57	Info: 	File successfully written in background: www.closethedoor.org.uk/files/4714/2538/5142/home-retail-group.jpg
+13:45:58	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/sustainable-city-awards-2016/ -> www.closethedoor.org.uk/news/archive/sustainable-city-awards-2016/index.html
+13:45:58	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/round-table-discussion-john-lewis-ms-and-arup/ -> www.closethedoor.org.uk/news/archive/round-table-discussion-john-lewis-ms-and-arup/index.html
+13:46:00	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/3414/2109/8238/theguardian.png -> www.closethedoor.org.uk/files/3414/2109/8238/theguardian.png
+13:46:00	Info: 	File successfully written in background: www.closethedoor.org.uk/files/3414/2109/8238/theguardian.png
+13:46:00	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/archive/hm/ -> www.closethedoor.org.uk/support/participating-retailers/archive/hm/index.html
+13:46:00	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/dr-ben-barratt/ -> www.closethedoor.org.uk/support/endorsements/archive/dr-ben-barratt/index.html
+13:46:02	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/ -> www.closethedoor.org.uk/files/index.html
+13:46:02	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/archive/home-retail-group/ -> www.closethedoor.org.uk/support/participating-retailers/archive/home-retail-group/index.html
+13:46:04	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/2614/1902/5984/retail-environment.jpg -> www.closethedoor.org.uk/files/2614/1902/5984/retail-environment.jpg
+13:46:04	Info: 	File successfully written in background: www.closethedoor.org.uk/files/2614/1902/5984/retail-environment.jpg
+13:46:04	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/observer-magazine-article/ -> www.closethedoor.org.uk/news/archive/observer-magazine-article/index.html
+13:46:04	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/retail-environment-magazine-article/ -> www.closethedoor.org.uk/news/archive/retail-environment-magazine-article/index.html
+13:46:06	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/boots-endorses-campaign/ -> www.closethedoor.org.uk/news/archive/boots-endorses-campaign/index.html
+13:46:06	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/bbc1-inside-out-east/ -> www.closethedoor.org.uk/news/archive/bbc1-inside-out-east/index.html
+13:46:08	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/4114/0185/8278/boots.png -> www.closethedoor.org.uk/files/4114/0185/8278/boots.png
+13:46:08	Info: 	File successfully written in background: www.closethedoor.org.uk/files/4114/0185/8278/boots.png
+13:46:08	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/7713/6151/8680/inside-out.jpg -> www.closethedoor.org.uk/files/7713/6151/8680/inside-out.jpg
+13:46:08	Info: 	File successfully written in background: www.closethedoor.org.uk/files/7713/6151/8680/inside-out.jpg
+13:46:08	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/radio-4-world-weekend-cover-campaign/ -> www.closethedoor.org.uk/news/archive/radio-4-world-weekend-cover-campaign/index.html
+13:46:10	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/ajax-loader.gif -> www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/ajax-loader.gif
+13:46:10	Info: 	File successfully written in background: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/ajax-loader.gif
+13:46:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/39a9a2521e7014c4ff1ada1aa73ffb82.jpg -> www.closethedoor.org.uk/files/cache/39a9a2521e7014c4ff1ada1aa73ffb82.jpg
+13:46:12	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/39a9a2521e7014c4ff1ada1aa73ffb82.jpg
+13:46:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/archive/marks-and-spencer/ -> www.closethedoor.org.uk/support/participating-retailers/archive/marks-and-spencer/index.html
+13:46:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/4813/9016/1662/r4_logo.png -> www.closethedoor.org.uk/files/4813/9016/1662/r4_logo.png
+13:46:12	Info: 	File successfully written in background: www.closethedoor.org.uk/files/4813/9016/1662/r4_logo.png
+13:46:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/26f536d52fa8a38a8989dbbeb367178e.jpg -> www.closethedoor.org.uk/files/cache/26f536d52fa8a38a8989dbbeb367178e.jpg
+13:46:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/archive/born/ -> www.closethedoor.org.uk/support/participating-retailers/archive/born/index.html
+13:46:13	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/124db1fcf27145a479b3d5922bf56485.jpg -> www.closethedoor.org.uk/files/cache/124db1fcf27145a479b3d5922bf56485.jpg
+13:46:14	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/94f94134d152a1cd1e811e97aa20db44.jpg -> www.closethedoor.org.uk/files/cache/94f94134d152a1cd1e811e97aa20db44.jpg
+13:46:14	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/archive/john-lewis-waitrose/ -> www.closethedoor.org.uk/support/participating-retailers/archive/john-lewis-waitrose/index.html
+13:46:15	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/6bbed2c942d6c7380547cf4702e34b98.jpg -> www.closethedoor.org.uk/files/cache/6bbed2c942d6c7380547cf4702e34b98.jpg
+13:46:15	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/archive/tesco/ -> www.closethedoor.org.uk/support/participating-retailers/archive/tesco/index.html
+13:46:16	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/3fedd63bef7fb86d9c96d21334d61c0a.jpg -> www.closethedoor.org.uk/files/cache/3fedd63bef7fb86d9c96d21334d61c0a.jpg
+13:46:16	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/archive/wickes-travis-perkins/ -> www.closethedoor.org.uk/support/participating-retailers/archive/wickes-travis-perkins/index.html
+13:46:17	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/890cf2d6c6fae4d59e40246fd6017c9e.jpg -> www.closethedoor.org.uk/files/cache/890cf2d6c6fae4d59e40246fd6017c9e.jpg
+13:46:17	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/archive/aspace/ -> www.closethedoor.org.uk/support/participating-retailers/archive/aspace/index.html
+13:46:18	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/f56b3ed78fb772b4e930719b002a84cd.jpg -> www.closethedoor.org.uk/files/cache/f56b3ed78fb772b4e930719b002a84cd.jpg
+13:46:18	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/archive/selfridges/ -> www.closethedoor.org.uk/support/participating-retailers/archive/selfridges/index.html
+13:46:19	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/067ae7c7af4a5bbfb7efb0db3ea76e3c.jpg -> www.closethedoor.org.uk/files/cache/067ae7c7af4a5bbfb7efb0db3ea76e3c.jpg
+13:46:19	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/archive/pramo/ -> www.closethedoor.org.uk/support/participating-retailers/archive/pramo/index.html
+13:46:20	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/951f88a1971f8af748ea754222e63ca6.jpg -> www.closethedoor.org.uk/files/cache/951f88a1971f8af748ea754222e63ca6.jpg
+13:46:21	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/6036f65395cd89eb6e81fba1bddce4bc.jpg -> www.closethedoor.org.uk/files/cache/6036f65395cd89eb6e81fba1bddce4bc.jpg
+13:46:21	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/oxfam-supports-close-the-door-campaign/ -> www.closethedoor.org.uk/news/archive/oxfam-supports-close-the-door-campaign/index.html
+13:46:22	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/79bafde872bebbc00687bafd67a35035.jpg -> www.closethedoor.org.uk/files/cache/79bafde872bebbc00687bafd67a35035.jpg
+13:46:23	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/aaba72306d61f360a54ad56881c5f554.jpg -> www.closethedoor.org.uk/files/cache/aaba72306d61f360a54ad56881c5f554.jpg
+13:46:24	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/5cbafbea74948878eb3f6d3c5b88c134.jpg -> www.closethedoor.org.uk/files/cache/5cbafbea74948878eb3f6d3c5b88c134.jpg
+13:46:24	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/archive/costa-coffee/ -> www.closethedoor.org.uk/support/participating-retailers/archive/costa-coffee/index.html
+13:46:25	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/b67ac63d8ad3035a37dab398aef99bf2.jpg -> www.closethedoor.org.uk/files/cache/b67ac63d8ad3035a37dab398aef99bf2.jpg
+13:46:25	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/archive/fenwick/ -> www.closethedoor.org.uk/support/participating-retailers/archive/fenwick/index.html
+13:46:26	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/32ecba9a054e7f9ed35b71fd0b00161c.jpg -> www.closethedoor.org.uk/files/cache/32ecba9a054e7f9ed35b71fd0b00161c.jpg
+13:46:26	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/archive/boots-member-alliance-boots/ -> www.closethedoor.org.uk/support/participating-retailers/archive/boots-member-alliance-boots/index.html
+13:46:27	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/e74956d1ee34795ea3b03cd726a5cb3a.jpg -> www.closethedoor.org.uk/files/cache/e74956d1ee34795ea3b03cd726a5cb3a.jpg
+13:46:27	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/archive/neals-yard/ -> www.closethedoor.org.uk/support/participating-retailers/archive/neals-yard/index.html
+13:46:28	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/773e14f89a537d8000b96c192131c912.jpg -> www.closethedoor.org.uk/files/cache/773e14f89a537d8000b96c192131c912.jpg
+13:46:29	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/3214/5674/9243/geze-logo.png -> www.closethedoor.org.uk/files/3214/5674/9243/geze-logo.png
+13:46:30	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/packages/theme_slate/themes/slate/columnal.css
+13:46:30	Info: 	engine: check-html: www.closethedoor.org.uk/packages/theme_slate/themes/slate/columnal.css
+13:46:30	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/files/cache/css/slate/typography.css
+13:46:30	Info: 	engine: check-html: www.closethedoor.org.uk/files/cache/css/slate/typography.css
+13:46:30	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/files/cache/css/slate/main.css
+13:46:30	Info: 	engine: check-html: www.closethedoor.org.uk/files/cache/css/slate/main.css
+13:46:30	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/packages/theme_slate/themes/slate/mobile.css
+13:46:30	Info: 	engine: check-html: www.closethedoor.org.uk/packages/theme_slate/themes/slate/mobile.css
+13:46:30	Info: 	engine: check-html: www.closethedoor.org.uk/index.php
+13:46:30	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/ccm.base.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:46:30	Info: 	engine: check-html: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/ccm.base.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:46:30	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/css/smoothDivScroll.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:46:30	Info: 	engine: check-html: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/css/smoothDivScroll.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:46:30	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/index.php/login/ -> www.closethedoor.org.uk/index.php/login/index.html
+13:46:30	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/big_transparent.gif -> www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/big_transparent.gif
+13:46:30	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/geze-becomes-official-supporter-close-door/ -> www.closethedoor.org.uk/news/archive/geze-becomes-official-supporter-close-door/index.html
+13:46:31	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/cursors/cursor_arrow_left.png -> www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/cursors/cursor_arrow_left.png
+13:46:32	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/cursors/cursor_arrow_left.cur -> www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/cursors/cursor_arrow_left.html
+13:46:33	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/arrow_left.gif -> www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/arrow_left.gif
+13:46:34	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/cursors/cursor_arrow_right.png -> www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/cursors/cursor_arrow_right.png
+13:46:35	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/cursors/cursor_arrow_right.cur -> www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/cursors/cursor_arrow_right.html
+13:46:36	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/arrow_right.gif -> www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/arrow_right.gif
+13:46:37	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/css/magnific.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:46:37	Info: 	engine: check-html: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/css/magnific.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:46:37	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/css/smooth.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:46:37	Info: 	engine: check-html: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/css/smooth.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:46:37	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/jquery.ui.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:46:37	Info: 	engine: check-html: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/jquery.ui.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:46:37	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/images/bg_fallback.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/images/bg_fallback.png
+13:46:38	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/images/ui-icons_222222_256x240.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/images/ui-icons_222222_256x240.png
+13:46:39	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/images/ui-icons_454545_256x240.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/images/ui-icons_454545_256x240.png
+13:46:40	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/images/icon_sprite.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/images/icon_sprite.png
+13:46:41	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/images/slider_handles.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/images/slider_handles.png
+13:46:42	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/css/unoslider.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:46:42	Info: 	engine: check-html: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/css/unoslider.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:46:42	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/spinner.gif -> www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/spinner.gif
+13:46:43	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/css/themes.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:46:43	Info: 	engine: check-html: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/css/themes.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:46:43	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/basic.png -> www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/basic.png
+13:46:44	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/elegant.png -> www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/elegant.png
+13:46:45	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/inline.png -> www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/inline.png
+13:46:46	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/light.png -> www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/light.png
+13:46:47	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/minimalist.png -> www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/minimalist.png
+13:46:48	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/modern.png -> www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/modern.png
+13:46:49	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/panel.png -> www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/panel.png
+13:46:50	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/ribbon.png -> www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/ribbon.png
+13:46:51	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/slick.png -> www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/slick.png
+13:46:52	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/smooth.png -> www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/smooth.png
+13:46:53	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/square.png -> www.closethedoor.org.uk/packages/unoslider/blocks/unoslider/templates/elegant/images/square.png
+13:46:54	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css
+13:46:54	Info: 	engine: check-html: www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css
+13:46:54	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox.png -> www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox.png
+13:46:55	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/blank.gif -> www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/blank.gif
+13:46:56	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox-x.png -> www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox-x.png
+13:46:57	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox-y.png -> www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox-y.png
+13:46:58	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancy_title_over.png -> www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancy_title_over.png
+13:46:59	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_close.png
+13:47:00	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_nav_left.png
+13:47:01	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_nav_right.png
+13:47:02	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_title_over.png
+13:47:03	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_title_left.png
+13:47:04	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_title_main.png
+13:47:05	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_title_right.png
+13:47:06	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_loading.png
+13:47:07	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_shadow_n.png
+13:47:08	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_shadow_ne.png
+13:47:09	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_shadow_e.png
+13:47:10	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_shadow_se.png
+13:47:11	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_shadow_s.png
+13:47:12	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_shadow_sw.png
+13:47:13	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_shadow_w.png
+13:47:14	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_shadow_nw.png
+13:47:15	Info: 	engine: check-html: www.closethedoor.org.uk/about-us/
+13:47:15	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/5013/6004/4314/contact-us.png -> www.closethedoor.org.uk/files/5013/6004/4314/contact-us.png
+13:47:16	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/7613/6004/4239/faq.png -> www.closethedoor.org.uk/files/7613/6004/4239/faq.png
+13:47:17	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/1313/6004/4238/facts.png -> www.closethedoor.org.uk/files/1313/6004/4238/facts.png
+13:47:18	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/9413/6004/4244/materials.png -> www.closethedoor.org.uk/files/9413/6004/4244/materials.png
+13:47:19	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/6913/6004/4242/local-campaigns.png -> www.closethedoor.org.uk/files/6913/6004/4242/local-campaigns.png
+13:47:20	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/about-us/local-campaigns/
+13:47:20	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/2013/5396/3756/facebook.png -> www.closethedoor.org.uk/files/2013/5396/3756/facebook.png
+13:47:21	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/8113/5396/3761/twitter.png -> www.closethedoor.org.uk/files/8113/5396/3761/twitter.png
+13:47:22	Info: 	engine: check-html: www.closethedoor.org.uk/about-us/contact-us/
+13:47:22	Info: 	engine: check-html: www.closethedoor.org.uk/about-us/faqs/
+13:47:22	Info: 	engine: check-html: www.closethedoor.org.uk/about-us/our-research/
+13:47:22	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/5213/5810/2732/esmeefairburn.png -> www.closethedoor.org.uk/files/5213/5810/2732/esmeefairburn.png
+13:47:22	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/about-us/our-research/air-quality-research/ -> www.closethedoor.org.uk/about-us/our-research/air-quality-research/index.html
+13:47:23	Info: 	engine: check-html: www.closethedoor.org.uk/about-us/materials/
+13:47:23	Info: 	engine: transfer-status: link error (302, 'Found'): www.closethedoor.org.uk/index.php/download_file/view/65/140/
+13:47:23	Info: 	engine: transfer-status: link error (302, 'Found'): www.closethedoor.org.uk/index.php/download_file/view/64/140/
+13:47:23	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/8313/5384/0828/ctdlogo.png -> www.closethedoor.org.uk/files/8313/5384/0828/ctdlogo.png
+13:47:24	Info: 	engine: transfer-status: link error (302, 'Found'): www.closethedoor.org.uk/index.php/download_file/view/67/164/
+13:47:24	Info: 	engine: transfer-status: link error (302, 'Found'): www.closethedoor.org.uk/index.php/download_file/view/68/164/
+13:47:24	Info: 	engine: transfer-status: link error (302, 'Found'): www.closethedoor.org.uk/index.php/download_file/view/70/164/
+13:47:24	Info: 	engine: transfer-status: link error (302, 'Found'): www.closethedoor.org.uk/index.php/download_file/view/64/164/
+13:47:25	Info: 	engine: check-html: www.closethedoor.org.uk/get-involved/
+13:47:25	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/2013/6004/5310/retailers.png -> www.closethedoor.org.uk/files/2013/6004/5310/retailers.png
+13:47:26	Info: 	engine: transfer-status: link error (302, 'Found'): www.closethedoor.org.uk/index.php/download_file/view/65/164/
+13:47:26	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/6213/6004/5305/consumers.png -> www.closethedoor.org.uk/files/6213/6004/5305/consumers.png
+13:47:27	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/5013/6004/5302/campaigners.png -> www.closethedoor.org.uk/files/5013/6004/5302/campaigners.png
+13:47:28	Info: 	engine: check-html: www.closethedoor.org.uk/get-involved/retailers/
+13:47:28	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk//index.php?cID=173 -> www.closethedoor.org.uk/indexda3c.html
+13:47:29	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk//index.php?cID=140 -> www.closethedoor.org.uk/indexab4a.html
+13:47:30	Info: 	engine: check-html: www.closethedoor.org.uk/get-involved/campaigners/
+13:47:30	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk//index.php?cID=165 -> www.closethedoor.org.uk/index3e42.html
+13:47:31	Info: 	engine: check-html: www.closethedoor.org.uk/get-involved/campaigners1/
+13:47:31	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk//index.php?cID=161 -> www.closethedoor.org.uk/index6be2.html
+13:47:32	Info: 	engine: transfer-status: link error (302, 'Found'): www.closethedoor.org.uk/index.php/download_file/view/67/176/
+13:47:32	Info: 	engine: transfer-status: link error (302, 'Found'): www.closethedoor.org.uk/index.php/download_file/view/243/176/
+13:47:32	Info: 	engine: transfer-status: link error (302, 'Found'): www.closethedoor.org.uk/index.php/download_file/view/70/176/
+13:47:32	Info: 	engine: transfer-status: link error (302, 'Found'): www.closethedoor.org.uk/index.php/download_file/view/69/176/
+13:47:33	Info: 	engine: check-html: www.closethedoor.org.uk/support/
+13:47:33	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/9013/6004/5903/participating-retailers.png -> www.closethedoor.org.uk/files/9013/6004/5903/participating-retailers.png
+13:47:34	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/3613/6004/5900/Endorsements.png -> www.closethedoor.org.uk/files/3613/6004/5900/Endorsements.png
+13:47:35	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/
+13:47:35	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/page_list_teasers/blocks/page_list/view.css?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/packages/page_list_teasers/blocks/page_list/view0da7.css
+13:47:36	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk//index.php?cID=167
+13:47:37	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/7013/5810/1556/aspace.png -> www.closethedoor.org.uk/files/7013/5810/1556/aspace.png
+13:47:39	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/4114/0185/7665/boots2.png -> www.closethedoor.org.uk/files/4114/0185/7665/boots2.png
+13:47:39	Info: 	File successfully written in background: www.closethedoor.org.uk/files/4114/0185/7665/boots2.png
+13:47:40	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/9113/5444/3462/new_born_logo.jpg -> www.closethedoor.org.uk/files/9113/5444/3462/new_born_logo.jpg
+13:47:40	Info: 	File successfully written in background: www.closethedoor.org.uk/files/9113/5444/3462/new_born_logo.jpg
+13:47:40	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/4213/5436/9895/costa_logo.gif -> www.closethedoor.org.uk/files/4213/5436/9895/costa_logo.gif
+13:47:41	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/4413/5810/1558/fenwick.png -> www.closethedoor.org.uk/files/4413/5810/1558/fenwick.png
+13:47:42	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/1314/4923/2811/HM.png -> www.closethedoor.org.uk/files/1314/4923/2811/HM.png
+13:47:44	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/8614/2538/5018/home-retail-group-all-logos.png -> www.closethedoor.org.uk/files/8614/2538/5018/home-retail-group-all-logos.png
+13:47:44	Info: 	File successfully written in background: www.closethedoor.org.uk/files/8614/2538/5018/home-retail-group-all-logos.png
+13:47:45	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/1513/5810/1560/johnlewis.png -> www.closethedoor.org.uk/files/1513/5810/1560/johnlewis.png
+13:47:45	Info: 	File successfully written in background: www.closethedoor.org.uk/files/1513/5810/1560/johnlewis.png
+13:47:45	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/9413/5810/1561/marksandspencer.png -> www.closethedoor.org.uk/files/9413/5810/1561/marksandspencer.png
+13:47:45	Info: 	File successfully written in background: www.closethedoor.org.uk/files/9413/5810/1561/marksandspencer.png
+13:47:46	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/5313/5820/5066/nealsyard.png -> www.closethedoor.org.uk/files/5313/5820/5066/nealsyard.png
+13:47:47	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/8013/6247/9336/Paramo.png -> www.closethedoor.org.uk/files/8013/6247/9336/Paramo.png
+13:47:48	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/3413/5810/1562/ryman.png -> www.closethedoor.org.uk/files/3413/5810/1562/ryman.png
+13:47:49	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/1713/5810/1563/selfridges.png -> www.closethedoor.org.uk/files/1713/5810/1563/selfridges.png
+13:47:49	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/archive/ryman/ -> www.closethedoor.org.uk/support/participating-retailers/archive/ryman/index.html
+13:47:50	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/6513/5810/1564/tesco.png -> www.closethedoor.org.uk/files/6513/5810/1564/tesco.png
+13:47:51	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/5313/5810/1566/Wickes.png -> www.closethedoor.org.uk/files/5313/5810/1566/Wickes.png
+13:47:52	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/
+13:47:52	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/boris-johnson/ -> www.closethedoor.org.uk/support/endorsements/archive/boris-johnson/index.html
+13:47:52	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/sir-richard-lambert/ -> www.closethedoor.org.uk/support/endorsements/archive/sir-richard-lambert/index.html
+13:47:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/
+13:47:53	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/scottish-parliament/ -> www.closethedoor.org.uk/support/endorsements/archive/scottish-parliament/index.html
+13:47:53	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/ed-davey-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/ed-davey-mp/index.html
+13:47:53	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/blocks/page_list/view.css?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/blocks/page_list/view0da7.css
+13:47:54	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/the-wi-national-federation-of-womens-institutes/ -> www.closethedoor.org.uk/support/endorsements/archive/the-wi-national-federation-of-womens-institutes/index.html
+13:47:54	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/prof-sir-david-king/ -> www.closethedoor.org.uk/support/endorsements/archive/prof-sir-david-king/index.html
+13:47:54	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/vince-cable/ -> www.closethedoor.org.uk/support/endorsements/archive/vince-cable/index.html
+13:47:54	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/william-hague-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/william-hague-mp/index.html
+13:47:56	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/8814/5677/7142/cc39d7ccdb654b80bc038f2f91812d43.png -> www.closethedoor.org.uk/files/8814/5677/7142/cc39d7ccdb654b80bc038f2f91812d43.png
+13:47:56	Info: 	File successfully written in background: www.closethedoor.org.uk/files/8814/5677/7142/cc39d7ccdb654b80bc038f2f91812d43.png
+13:47:56	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/charles-clarke-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/charles-clarke-mp/index.html
+13:47:56	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/usdaw/ -> www.closethedoor.org.uk/support/endorsements/archive/usdaw/index.html
+13:47:56	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/andrew-lansley-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/andrew-lansley-mp/index.html
+13:47:57	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/euro-mp-chris-davies/ -> www.closethedoor.org.uk/support/endorsements/archive/euro-mp-chris-davies/index.html
+13:47:59	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/zac-goldsmith-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/zac-goldsmith-mp/index.html
+13:47:59	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/oliver-letwin-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/oliver-letwin-mp/index.html
+13:47:59	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/natalie-bennett/ -> www.closethedoor.org.uk/support/endorsements/archive/natalie-bennett/index.html
+13:48:00	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/9214/5677/6239/dd2bf4ada0e6423bb8d43b07360320ae.jpg -> www.closethedoor.org.uk/files/9214/5677/6239/dd2bf4ada0e6423bb8d43b07360320ae.jpg
+13:48:00	Info: 	File successfully written in background: www.closethedoor.org.uk/files/9214/5677/6239/dd2bf4ada0e6423bb8d43b07360320ae.jpg
+13:48:00	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/kevin-mccloud/ -> www.closethedoor.org.uk/support/endorsements/archive/kevin-mccloud/index.html
+13:48:01	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/caroline-lucas-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/caroline-lucas-mp/index.html
+13:48:02	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/2214/5262/7836/d66cc3c377d746358eb162c0558a9baf.jpg -> www.closethedoor.org.uk/files/2214/5262/7836/d66cc3c377d746358eb162c0558a9baf.jpg
+13:48:02	Info: 	File successfully written in background: www.closethedoor.org.uk/files/2214/5262/7836/d66cc3c377d746358eb162c0558a9baf.jpg
+13:48:02	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/councillor-pamela-fleming/ -> www.closethedoor.org.uk/support/endorsements/archive/councillor-pamela-fleming/index.html
+13:48:02	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/lorely-burt-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/lorely-burt-mp/index.html
+13:48:04	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/emily-thornberry-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/emily-thornberry-mp/index.html
+13:48:04	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/mike-berners-lee/ -> www.closethedoor.org.uk/support/endorsements/archive/mike-berners-lee/index.html
+13:48:04	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/julian-huppert-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/julian-huppert-mp/index.html
+13:48:06	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/john-hemming-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/john-hemming-mp/index.html
+13:48:06	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/mike-tuffrey-am/ -> www.closethedoor.org.uk/support/endorsements/archive/mike-tuffrey-am/index.html
+13:48:08	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/index.php/tools/blocks/page_list/blog_rss?bID=505&cID=139&arHandle=Main -> www.closethedoor.org.uk/index.php/tools/blocks/page_list/blog_rss97d6
+13:48:08	Info: 	File successfully written in background: www.closethedoor.org.uk/index.php/tools/blocks/page_list/blog_rss97d6
+13:48:08	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/claire-perry-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/claire-perry-mp/index.html
+13:48:08	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/blocks/page_list/rss.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/blocks/page_list/rss.png
+13:48:08	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/stephen-williams-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/stephen-williams-mp/index.html
+13:48:10	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/ben-bradshaw-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/ben-bradshaw-mp/index.html
+13:48:10	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/kerry-mccarthy-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/kerry-mccarthy-mp/index.html
+13:48:10	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/anne-milton-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/anne-milton-mp/index.html
+13:48:11	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/8314/5225/5863/Close_the_Door.jpg -> www.closethedoor.org.uk/files/8314/5225/5863/Close_the_Door.jpg
+13:48:11	Info: 	engine: check-html: www.closethedoor.org.uk/search/
+13:48:11	Info: 	File successfully written in background: www.closethedoor.org.uk/files/8314/5225/5863/Close_the_Door.jpg
+13:48:11	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/dawn-primarolo-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/dawn-primarolo-mp/index.html
+13:48:11	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/andy-slaughter-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/andy-slaughter-mp/index.html
+13:48:11	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/andrew-mitchell-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/andrew-mitchell-mp/index.html
+13:48:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/roger-godsiff-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/roger-godsiff-mp/index.html
+13:48:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/richard-burden-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/richard-burden-mp/index.html
+13:48:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/gisela-stuart-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/gisela-stuart-mp/index.html
+13:48:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/blocks/search/view.css?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/blocks/search/view0da7.css
+13:48:12	Info: 	File successfully written in background: www.closethedoor.org.uk/files/4213/5991/0577/twitter.png
+13:48:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/heidi-allen-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/heidi-allen-mp/index.html
+13:48:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/paul-maynard-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/paul-maynard-mp/index.html
+13:48:13	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/crucial-iosh-regulation/ -> www.closethedoor.org.uk/news/archive/crucial-iosh-regulation/index.html
+13:48:13	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/daniel-zeichner-mp/ -> www.closethedoor.org.uk/support/endorsements/archive/daniel-zeichner-mp/index.html
+13:48:14	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/sustainable-city-awards-2016/
+13:48:14	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/fitzrovia-project-starts/ -> www.closethedoor.org.uk/news/archive/fitzrovia-project-starts/index.html
+13:48:14	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=2 -> www.closethedoor.org.uk/news/index4bfc.html
+13:48:14	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/blocks/tags/view.css?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/blocks/tags/view0da7.css
+13:48:15	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=3 -> www.closethedoor.org.uk/news/indexe2f9.html
+13:48:15	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=6 -> www.closethedoor.org.uk/news/index7aa0.html
+13:48:16	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=5 -> www.closethedoor.org.uk/news/index701c.html
+13:48:16	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=4 -> www.closethedoor.org.uk/news/index0bd3.html
+13:48:16	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/ -> www.closethedoor.org.uk/news/archive/index.html
+13:48:17	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/round-table-discussion-john-lewis-ms-and-arup/
+13:48:17	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=30 -> www.closethedoor.org.uk/news/index789b.html
+13:48:17	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=11 -> www.closethedoor.org.uk/search/index4b99.html
+13:48:17	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=5 -> www.closethedoor.org.uk/search/indexf2a6.html
+13:48:17	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=12 -> www.closethedoor.org.uk/search/index8ec8.html
+13:48:18	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/archive/hm/
+13:48:18	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/dr-ben-barratt/
+13:48:18	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/archive/home-retail-group/
+13:48:18	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/observer-magazine-article/
+13:48:18	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/ -> www.closethedoor.org.uk/support/endorsements/archive/index.html
+13:48:18	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/files/4414/2104/9191/4c54a9755b9d4fc4b98c57be6bf4ce2d.jpeg
+13:48:19	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/retail-environment-magazine-article/
+13:48:19	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/archive/ -> www.closethedoor.org.uk/support/participating-retailers/archive/index.html
+13:48:21	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/5114/1902/5451/retail-environment-small.jpg -> www.closethedoor.org.uk/files/5114/1902/5451/retail-environment-small.jpg
+13:48:21	Info: 	File successfully written in background: www.closethedoor.org.uk/files/5114/1902/5451/retail-environment-small.jpg
+13:48:21	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/boots-endorses-campaign/
+13:48:21	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/bbc1-inside-out-east/
+13:48:22	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=9 -> www.closethedoor.org.uk/search/index7bf0.html
+13:48:22	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/radio-4-world-weekend-cover-campaign/
+13:48:23	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/8213/6151/8975/inside-out.jpg -> www.closethedoor.org.uk/files/8213/6151/8975/inside-out.jpg
+13:48:23	Info: 	File successfully written in background: www.closethedoor.org.uk/files/8213/6151/8975/inside-out.jpg
+13:48:23	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/html5_audio_player_basic/blocks/html5_audio_player_basic/templates/blue_monday/css/jplayer.blue.monday.css?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/packages/html5_audio_player_basic/blocks/html5_audio_player_basic/templates/blue_monday/css/jplayer.blue.monday0da7.css
+13:48:25	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/archive/marks-and-spencer/
+13:48:25	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/archive/born/
+13:48:25	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/archive/john-lewis-waitrose/
+13:48:25	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/archive/tesco/
+13:48:25	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/archive/wickes-travis-perkins/
+13:48:25	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/archive/aspace/
+13:48:25	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/archive/selfridges/
+13:48:25	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/archive/pramo/
+13:48:25	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/oxfam-supports-close-the-door-campaign/
+13:48:27	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/5213/5819/9896/oxfam.png -> www.closethedoor.org.uk/files/5213/5819/9896/oxfam.png
+13:48:27	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/6113/9015/8647/r4_logo.png -> www.closethedoor.org.uk/files/6113/9015/8647/r4_logo.png
+13:48:27	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/html5_audio_player_basic/js/jplayer.min.js?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/packages/html5_audio_player_basic/js/jplayer.min0da7.js
+13:48:27	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/archive/costa-coffee/
+13:48:27	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/archive/fenwick/
+13:48:27	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/archive/boots-member-alliance-boots/
+13:48:27	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/archive/neals-yard/
+13:48:27	Info: 	engine: check-html: www.closethedoor.org.uk/index.php/login/
+13:48:27	Info: 	File successfully written in background: www.closethedoor.org.uk/files/5213/5819/9896/oxfam.png
+13:48:27	Info: 	File successfully written in background: www.closethedoor.org.uk/files/6113/9015/8647/r4_logo.png
+13:48:27	Info: 	File successfully written in background: www.closethedoor.org.uk/packages/html5_audio_player_basic/js/jplayer.min0da7.js
+13:48:28	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/ccm.default.theme.css -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/ccm.default.theme.css
+13:48:28	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/ccm.install.css -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/ccm.install.css
+13:48:30	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/ccm.app.css -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/ccm.app.css
+13:48:34	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/logo_menu.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/logo_menu.png
+13:48:34	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/logo_menu.png
+13:48:34	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/geze-becomes-official-supporter-close-door/
+13:48:34	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/cursors/cursor_arrow_left.cur
+13:48:34	Info: 	engine: check-html: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/cursors/cursor_arrow_left.cur
+13:48:34	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/cursors/cursor_arrow_right.cur
+13:48:34	Info: 	engine: check-html: www.closethedoor.org.uk/packages/jb_smooth/blocks/jb_smooth/images/cursors/cursor_arrow_right.cur
+13:48:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_close.png (from www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css)
+13:48:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_nav_left.png (from www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css)
+13:48:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_nav_right.png (from www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css)
+13:48:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_title_over.png (from www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css)
+13:48:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_title_left.png (from www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css)
+13:48:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_title_main.png (from www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css)
+13:48:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_title_right.png (from www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css)
+13:48:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_loading.png (from www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css)
+13:48:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_shadow_n.png (from www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css)
+13:48:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_shadow_ne.png (from www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css)
+13:48:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_shadow_e.png (from www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css)
+13:48:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_shadow_se.png (from www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css)
+13:48:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_shadow_s.png (from www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css)
+13:48:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_shadow_sw.png (from www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css)
+13:48:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_shadow_w.png (from www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css)
+13:48:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/fancybox/fancy_shadow_nw.png (from www.closethedoor.org.uk/packages/theme_slate/themes/slate/js/fancybox/jquery.fancybox-1.3.4.css)
+13:48:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/about-us/local-campaigns/ (from www.closethedoor.org.uk/about-us/)
+13:48:34	Info: 	engine: check-html: www.closethedoor.org.uk/about-us/our-research/air-quality-research/
+13:48:34	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/js/bootstrap.js?v=b4f44e4901a182db06e4752ec08f50c2 -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/js/bootstrap0da7.js
+13:48:34	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/js/bootstrap0da7.js
+13:48:36	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=10 -> www.closethedoor.org.uk/search/indexd65c.html
+13:48:38	Warning: 	Found for www.closethedoor.org.uk/index.php/download_file/view/64/140/
+13:48:38	Warning: 	Warning moved treated for www.closethedoor.org.uk/index.php/download_file/view/64/140/ (real one is www.closethedoor.org.uk/files/5613/5402/3909/basarir_presentation.pdf)
+13:48:56	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/4614/2677/3284/air-quality-figure-1.png -> www.closethedoor.org.uk/files/4614/2677/3284/air-quality-figure-1.png
+13:48:56	Warning: 	Found for www.closethedoor.org.uk/index.php/download_file/view/65/140/
+13:48:56	Warning: 	Warning moved treated for www.closethedoor.org.uk/index.php/download_file/view/65/140/ (real one is www.closethedoor.org.uk/files/3713/5402/3915/basarir-report.pdf)
+13:48:56	Info: 	File successfully written in background: www.closethedoor.org.uk/files/4614/2677/3284/air-quality-figure-1.png
+13:48:56	Info: 	File successfully written in background: www.closethedoor.org.uk/files/8313/5384/0828/ctdlogo.png
+13:48:57	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/8914/2677/3295/air-quality-figure-2.png -> www.closethedoor.org.uk/files/8914/2677/3295/air-quality-figure-2.png
+13:48:57	Warning: 	Found for www.closethedoor.org.uk/index.php/download_file/view/68/164/
+13:48:57	Warning: 	Warning moved treated for www.closethedoor.org.uk/index.php/download_file/view/68/164/ (real one is www.closethedoor.org.uk/files/4413/5402/3917/logo_print.gif)
+13:48:57	Info: 	File successfully written in background: www.closethedoor.org.uk/files/8914/2677/3295/air-quality-figure-2.png
+13:49:11	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/4413/5402/3917/logo_print.gif -> www.closethedoor.org.uk/index.php/download_file/view/68/164/index.html
+13:49:11	Warning: 	Found for www.closethedoor.org.uk/index.php/download_file/view/67/164/
+13:49:11	Warning: 	Warning moved treated for www.closethedoor.org.uk/index.php/download_file/view/67/164/ (real one is www.closethedoor.org.uk/files/6513/5402/3916/Door_sign_redone.pdf)
+13:49:11	Info: 	File successfully written in background: www.closethedoor.org.uk/index.php/download_file/view/68/164/index.html
+13:49:49	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/6513/5402/3916/Door_sign_redone.pdf -> www.closethedoor.org.uk/index.php/download_file/view/67/164/index.html
+13:49:49	Warning: 	Found for www.closethedoor.org.uk/index.php/download_file/view/70/164/
+13:49:49	Warning: 	Warning moved treated for www.closethedoor.org.uk/index.php/download_file/view/70/164/ (real one is www.closethedoor.org.uk/files/6313/5402/3923/sticker_2.pdf)
+13:49:49	Info: 	File successfully written in background: www.closethedoor.org.uk/index.php/download_file/view/67/164/index.html
+13:50:03	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/6313/5402/3923/sticker_2.pdf -> www.closethedoor.org.uk/index.php/download_file/view/70/164/index.html
+13:50:03	Warning: 	Found for www.closethedoor.org.uk/index.php/download_file/view/64/164/
+13:50:03	Warning: 	Warning moved treated for www.closethedoor.org.uk/index.php/download_file/view/64/164/ (real one is www.closethedoor.org.uk/files/5613/5402/3909/basarir_presentation.pdf)
+13:50:03	Info: 	moving /index.php/download_file/view/64/164/ to an existing file /index.php/download_file/view/64/164/
+13:50:03	Warning: 	Found for www.closethedoor.org.uk/index.php/download_file/view/65/164/
+13:50:03	Warning: 	Warning moved treated for www.closethedoor.org.uk/index.php/download_file/view/65/164/ (real one is www.closethedoor.org.uk/files/3713/5402/3915/basarir-report.pdf)
+13:50:03	Info: 	moving /index.php/download_file/view/65/164/ to an existing file /index.php/download_file/view/65/164/
+13:50:03	Info: 	engine: check-html: www.closethedoor.org.uk//index.php?cID=173
+13:50:03	Info: 	engine: check-html: www.closethedoor.org.uk//index.php?cID=140
+13:50:03	Info: 	engine: check-html: www.closethedoor.org.uk//index.php?cID=165
+13:50:03	Info: 	engine: check-html: www.closethedoor.org.uk//index.php?cID=161
+13:50:03	Warning: 	Found for www.closethedoor.org.uk/index.php/download_file/view/243/176/
+13:50:03	Warning: 	Warning moved treated for www.closethedoor.org.uk/index.php/download_file/view/243/176/ (real one is www.closethedoor.org.uk/files/6613/8538/5037/CtD_fact_sheet_Nov_2013.pdf)
+13:50:03	Info: 	File successfully written in background: www.closethedoor.org.uk/index.php/download_file/view/70/164/index.html
+13:50:20	Info: 	engine: transfer-status: link recorded: master.closethedoor.org.uk/files/4814/1902/4668/25-27_Retail_Environment_NovDec_2014.pdf -> master.closethedoor.org.uk/files/4814/1902/4668/25-27_Retail_Environment_NovDec_2014.pdf
+13:50:20	Warning: 	Found for www.closethedoor.org.uk/index.php/download_file/view/67/176/
+13:50:20	Warning: 	Warning moved treated for www.closethedoor.org.uk/index.php/download_file/view/67/176/ (real one is www.closethedoor.org.uk/files/6513/5402/3916/Door_sign_redone.pdf)
+13:50:20	Info: 	moving /index.php/download_file/view/67/176/ to an existing file /index.php/download_file/view/67/176/
+13:50:20	Warning: 	Found for www.closethedoor.org.uk/index.php/download_file/view/70/176/
+13:50:20	Warning: 	Warning moved treated for www.closethedoor.org.uk/index.php/download_file/view/70/176/ (real one is www.closethedoor.org.uk/files/6313/5402/3923/sticker_2.pdf)
+13:50:20	Info: 	moving /index.php/download_file/view/70/176/ to an existing file /index.php/download_file/view/70/176/
+13:50:20	Warning: 	Found for www.closethedoor.org.uk/index.php/download_file/view/69/176/
+13:50:20	Warning: 	Warning moved treated for www.closethedoor.org.uk/index.php/download_file/view/69/176/ (real one is www.closethedoor.org.uk/files/9813/5402/3922/poster.pdf)
+13:50:20	Info: 	File successfully written in background: master.closethedoor.org.uk/files/4814/1902/4668/25-27_Retail_Environment_NovDec_2014.pdf
+13:50:20	Info: 	File successfully written in background: www.closethedoor.org.uk/files/9013/6004/5903/participating-retailers.png
+13:51:32	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/6613/8538/5037/CtD_fact_sheet_Nov_2013.pdf -> www.closethedoor.org.uk/index.php/download_file/view/243/176/index.html
+13:51:32	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/packages/page_list_teasers/blocks/page_list/view.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/packages/page_list_teasers/blocks/page_list/view.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:51:32	Error: 	"Not Found" (404) at link www.closethedoor.org.uk//index.php?cID=167 (from www.closethedoor.org.uk/support/participating-retailers/)
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/archive/ryman/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/scottish-parliament/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/boris-johnson/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/sir-richard-lambert/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/ed-davey-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/vince-cable/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/prof-sir-david-king/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/william-hague-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/the-wi-national-federation-of-womens-institutes/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/andrew-lansley-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/euro-mp-chris-davies/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/usdaw/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/charles-clarke-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/oliver-letwin-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/zac-goldsmith-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/natalie-bennett/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/caroline-lucas-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/kevin-mccloud/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/lorely-burt-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/councillor-pamela-fleming/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/julian-huppert-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/emily-thornberry-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/mike-berners-lee/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/john-hemming-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/mike-tuffrey-am/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/claire-perry-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/stephen-williams-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/kerry-mccarthy-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/ben-bradshaw-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/anne-milton-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/dawn-primarolo-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/andy-slaughter-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/andrew-mitchell-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/roger-godsiff-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/richard-burden-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/gisela-stuart-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/paul-maynard-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/daniel-zeichner-mp/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/heidi-allen-mp/
+13:51:32	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/blocks/page_list/view.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/blocks/page_list/view.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/crucial-iosh-regulation/
+13:51:32	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/fitzrovia-project-starts/
+13:51:32	Info: 	File successfully written in background: www.closethedoor.org.uk/index.php/download_file/view/243/176/index.html
+13:51:32	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/blocks/page_list/rss.png
+13:51:34	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=8 -> www.closethedoor.org.uk/search/indexf856.html
+13:51:34	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=2
+13:51:38	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/3414/3168/7381/1c219da3b7604b42bcedd970df006b11.jpg -> www.closethedoor.org.uk/files/3414/3168/7381/1c219da3b7604b42bcedd970df006b11.jpg
+13:51:38	Info: 	File successfully written in background: www.closethedoor.org.uk/files/3414/3168/7381/1c219da3b7604b42bcedd970df006b11.jpg
+13:51:39	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/new-mp-heidi-allen-backs/ -> www.closethedoor.org.uk/news/archive/new-mp-heidi-allen-backs/index.html
+13:51:39	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=3
+13:51:44	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/6714/2704/9970/10452ba067f640d1998b3194b96de9f5.png -> www.closethedoor.org.uk/files/6714/2704/9970/10452ba067f640d1998b3194b96de9f5.png
+13:51:44	Info: 	File successfully written in background: www.closethedoor.org.uk/files/6714/2704/9970/10452ba067f640d1998b3194b96de9f5.png
+13:51:47	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/9814/2705/1103/5f63499885424c1b8748f85fdf487007.jpg -> www.closethedoor.org.uk/files/9814/2705/1103/5f63499885424c1b8748f85fdf487007.jpg
+13:51:47	Info: 	File successfully written in background: www.closethedoor.org.uk/files/9814/2705/1103/5f63499885424c1b8748f85fdf487007.jpg
+13:51:49	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/9714/2704/8494/ef89f4aafece4cb4b6dac50f86da055b.gif -> www.closethedoor.org.uk/files/9714/2704/8494/ef89f4aafece4cb4b6dac50f86da055b.gif
+13:51:49	Info: 	File successfully written in background: www.closethedoor.org.uk/files/9714/2704/8494/ef89f4aafece4cb4b6dac50f86da055b.gif
+13:51:50	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/daniel-zeichner-first-new-mps-support/ -> www.closethedoor.org.uk/news/archive/daniel-zeichner-first-new-mps-support/index.html
+13:51:50	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=4
+13:51:59	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/3214/1877/6060/a1f85a1e622c4d85b54e701469769df1.jpg -> www.closethedoor.org.uk/files/3214/1877/6060/a1f85a1e622c4d85b54e701469769df1.jpg
+13:51:59	Info: 	File successfully written in background: www.closethedoor.org.uk/files/3214/1877/6060/a1f85a1e622c4d85b54e701469769df1.jpg
+13:52:00	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/files/3914/1876/4380/9aa891219a00436fb9209587df85ca08.jpg
+13:52:02	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/campaign-talk-city-london-forum/ -> www.closethedoor.org.uk/news/archive/campaign-talk-city-london-forum/index.html
+13:52:09	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/3714/1876/2758/0ea2298a36e249b39dffa118dcd20e50.jpg -> www.closethedoor.org.uk/files/3714/1876/2758/0ea2298a36e249b39dffa118dcd20e50.jpg
+13:52:09	Info: 	File successfully written in background: www.closethedoor.org.uk/files/3714/1876/2758/0ea2298a36e249b39dffa118dcd20e50.jpg
+13:52:10	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/news/bit.ly/gkhk6w
+13:52:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/comment-dr-ben-barratt-air-pollution-retai/ -> www.closethedoor.org.uk/news/archive/comment-dr-ben-barratt-air-pollution-retai/index.html
+13:52:18	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/1614/1877/3091/bfe4c266b3cf429ca236474b6137a7f0.jpg -> www.closethedoor.org.uk/files/1614/1877/3091/bfe4c266b3cf429ca236474b6137a7f0.jpg
+13:52:18	Info: 	File successfully written in background: www.closethedoor.org.uk/files/1614/1877/3091/bfe4c266b3cf429ca236474b6137a7f0.jpg
+13:52:19	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/files/9314/1720/5467/7933f58595ff478991f2a694ddf03870.jpg
+13:52:21	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/research-results-air-pollution-shops-everyone-needs-know/ -> www.closethedoor.org.uk/news/archive/research-results-air-pollution-shops-everyone-needs-know/index.html
+13:52:22	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=1 -> www.closethedoor.org.uk/news/index0c79.html
+13:52:22	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=5
+13:52:26	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/9814/1721/5859/e12710c9336648209a2819c95b755b84.jpg -> www.closethedoor.org.uk/files/9814/1721/5859/e12710c9336648209a2819c95b755b84.jpg
+13:52:26	Info: 	File successfully written in background: www.closethedoor.org.uk/files/9814/1721/5859/e12710c9336648209a2819c95b755b84.jpg
+13:52:27	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/files/5014/1717/3987/c46e6d154306427c99aca5fc9e01483b.jpg
+13:52:29	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=7 -> www.closethedoor.org.uk/news/index452b.html
+13:52:30	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/files/3714/1717/2785/afb701b71532429c8cfb08fa1c4926c7.jpg
+13:52:32	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/home-retail-group-backs-campaign/ -> www.closethedoor.org.uk/news/archive/home-retail-group-backs-campaign/index.html
+13:52:33	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/files/3014/0294/1032/ec7bab77960746bb8bcbff0f36800f0b.png
+13:52:34	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/bristol-post-coverage/ -> www.closethedoor.org.uk/news/archive/bristol-post-coverage/index.html
+13:52:35	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/westminster-social-policy-forum/ -> www.closethedoor.org.uk/news/archive/westminster-social-policy-forum/index.html
+13:52:35	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=6
+13:52:39	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/5513/9138/2079/londonist-out-loud.png -> www.closethedoor.org.uk/files/5513/9138/2079/londonist-out-loud.png
+13:52:39	Info: 	File successfully written in background: www.closethedoor.org.uk/files/5513/9138/2079/londonist-out-loud.png
+13:52:42	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/8313/8653/3331/14ce4eb282144131a7070a51488a8d08.jpg -> www.closethedoor.org.uk/files/8313/8653/3331/14ce4eb282144131a7070a51488a8d08.jpg
+13:52:42	Info: 	File successfully written in background: www.closethedoor.org.uk/files/8313/8653/3331/14ce4eb282144131a7070a51488a8d08.jpg
+13:52:46	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/9313/8608/4562/1e926bb552ee4bb6b27da3c932fcdbc0.png -> www.closethedoor.org.uk/files/9313/8608/4562/1e926bb552ee4bb6b27da3c932fcdbc0.png
+13:52:46	Info: 	File successfully written in background: www.closethedoor.org.uk/files/9313/8608/4562/1e926bb552ee4bb6b27da3c932fcdbc0.png
+13:52:49	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/9813/8597/8346/1351b06e5897423ea97064ee13a4d4f7.jpg -> www.closethedoor.org.uk/files/9813/8597/8346/1351b06e5897423ea97064ee13a4d4f7.jpg
+13:52:49	Info: 	File successfully written in background: www.closethedoor.org.uk/files/9813/8597/8346/1351b06e5897423ea97064ee13a4d4f7.jpg
+13:52:50	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=8 -> www.closethedoor.org.uk/news/index67a3.html
+13:52:50	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=30
+13:52:53	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/5f25861f649220e15e04e17fae0047d9_f84.png -> www.closethedoor.org.uk/files/cache/5f25861f649220e15e04e17fae0047d9_f84.png
+13:52:53	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/5f25861f649220e15e04e17fae0047d9_f84.png
+13:52:54	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/mistake-highlights-exceptions-close-door-rule/ -> www.closethedoor.org.uk/news/archive/mistake-highlights-exceptions-close-door-rule/index.html
+13:52:54	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/blocks/search/view.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:52:54	Info: 	engine: check-html: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/blocks/search/view.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:52:56	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/natalie-bennettleader-green-party-endorsement/ -> www.closethedoor.org.uk/news/archive/natalie-bennettleader-green-party-endorsement/index.html
+13:52:56	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/blocks/tags/view.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:52:56	Info: 	engine: check-html: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/blocks/tags/view.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:52:58	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/daily-mail-online-15th-december/ -> www.closethedoor.org.uk/news/archive/daily-mail-online-15th-december/index.html
+13:52:58	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/
+13:53:00	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/retail-environment-novdec-coverage/ -> www.closethedoor.org.uk/news/archive/retail-environment-novdec-coverage/index.html
+13:53:00	Info: 	engine: check-html: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=11
+13:53:02	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/air-pollution-hazards-health-busy-streetsshop-doors/ -> www.closethedoor.org.uk/news/archive/air-pollution-hazards-health-busy-streetsshop-doors/index.html
+13:53:02	Info: 	engine: check-html: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=5
+13:53:04	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=9 -> www.closethedoor.org.uk/news/indexb2c1.html
+13:53:04	Info: 	engine: check-html: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=12
+13:53:06	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/bristol-launches-crowdfunder-2015-project/ -> www.closethedoor.org.uk/news/archive/bristol-launches-crowdfunder-2015-project/index.html
+13:53:06	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/archive/
+13:53:08	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/smithsonian-official-climate-change-statement/ -> www.closethedoor.org.uk/news/archive/smithsonian-official-climate-change-statement/index.html
+13:53:08	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/
+13:53:10	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/campaign-peoples-march-against-climate-change-21st-september/ -> www.closethedoor.org.uk/news/archive/campaign-peoples-march-against-climate-change-21st-september/index.html
+13:53:10	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/files/4414/2104/9191/4c54a9755b9d4fc4b98c57be6bf4ce2d.jpeg (from www.closethedoor.org.uk/news/archive/observer-magazine-article/)
+13:53:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/support-campaign-paul-maynard-mp/ -> www.closethedoor.org.uk/news/archive/support-campaign-paul-maynard-mp/index.html
+13:53:12	Info: 	engine: check-html: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=9
+13:53:14	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=10 -> www.closethedoor.org.uk/news/indexce7a.html
+13:53:14	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/packages/html5_audio_player_basic/blocks/html5_audio_player_basic/templates/blue_monday/css/jplayer.blue.monday.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:53:14	Info: 	engine: check-html: www.closethedoor.org.uk/packages/html5_audio_player_basic/blocks/html5_audio_player_basic/templates/blue_monday/css/jplayer.blue.monday.css?v=b4f44e4901a182db06e4752ec08f50c2
+13:53:19	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/html5_audio_player_basic/blocks/html5_audio_player_basic/templates/blue_monday/css/images/jplayer.blue.monday.jpg -> www.closethedoor.org.uk/packages/html5_audio_player_basic/blocks/html5_audio_player_basic/templates/blue_monday/css/images/jplayer.blue.monday.jpg
+13:53:19	Info: 	File successfully written in background: www.closethedoor.org.uk/packages/html5_audio_player_basic/blocks/html5_audio_player_basic/templates/blue_monday/css/images/jplayer.blue.monday.jpg
+13:53:21	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/packages/html5_audio_player_basic/blocks/html5_audio_player_basic/templates/blue_monday/css/images/jplayer.blue.monday.seeking.gif -> www.closethedoor.org.uk/packages/html5_audio_player_basic/blocks/html5_audio_player_basic/templates/blue_monday/css/images/jplayer.blue.monday.seeking.gif
+13:53:21	Info: 	File successfully written in background: www.closethedoor.org.uk/packages/html5_audio_player_basic/blocks/html5_audio_player_basic/templates/blue_monday/css/images/jplayer.blue.monday.seeking.gif
+13:53:22	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/londonist-out-loud-podcast/ -> www.closethedoor.org.uk/news/archive/londonist-out-loud-podcast/index.html
+13:53:22	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/ccm.default.theme.css
+13:53:22	Info: 	engine: check-html: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/ccm.default.theme.css
+13:53:24	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_header.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_header.png
+13:53:24	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_header.png
+13:53:26	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/openid.gif -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/openid.gif
+13:53:26	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/openid.gif
+13:53:28	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/new-sunday-times-coverage/ -> www.closethedoor.org.uk/news/archive/new-sunday-times-coverage/index.html
+13:53:28	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/ccm.install.css
+13:53:28	Info: 	engine: check-html: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/ccm.install.css
+13:53:30	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/city-westminster-councillor-supports-campaign/ -> www.closethedoor.org.uk/news/archive/city-westminster-councillor-supports-campaign/index.html
+13:53:30	Info: 	Warning: could not detect encoding for: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/ccm.app.css
+13:53:30	Info: 	engine: check-html: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/ccm.app.css
+13:53:35	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/glyphicons-halflings.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/glyphicons-halflings.png
+13:53:35	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/glyphicons-halflings.png
+13:53:38	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/glyphicons-halflings-white.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/glyphicons-halflings-white.png
+13:53:38	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/glyphicons-halflings-white.png
+13:53:41	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/images/chosen-sprite.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/images/chosen-sprite.png
+13:53:41	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/css/images/chosen-sprite.png
+13:53:43	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_background.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_background.png
+13:53:43	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_background.png
+13:53:46	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/colorpicker_overlay.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/colorpicker_overlay.png
+13:53:46	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/colorpicker_overlay.png
+13:53:48	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/colorpicker_select.gif -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/colorpicker_select.gif
+13:53:48	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/colorpicker_select.gif
+13:53:50	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_indic.gif -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_indic.gif
+13:53:50	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_indic.gif
+13:53:53	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_hex.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_hex.png
+13:53:53	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_hex.png
+13:53:55	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_rgb_r.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_rgb_r.png
+13:53:55	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_rgb_r.png
+13:53:57	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_rgb_g.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_rgb_g.png
+13:53:57	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_rgb_g.png
+13:53:59	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_rgb_b.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_rgb_b.png
+13:53:59	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_rgb_b.png
+13:54:01	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_hsb_h.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_hsb_h.png
+13:54:01	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_hsb_h.png
+13:54:03	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_hsb_s.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_hsb_s.png
+13:54:03	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_hsb_s.png
+13:54:05	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_hsb_b.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_hsb_b.png
+13:54:05	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/custom_hsb_b.png
+13:54:07	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/select2.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/select2.png
+13:54:07	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/widgets/colorpicker/select2.png
+13:54:09	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/delete_rating.gif -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/delete_rating.gif
+13:54:09	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/delete_rating.gif
+13:54:11	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/rating_star.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/rating_star.png
+13:54:11	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/rating_star.png
+13:54:13	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/add.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/add.png
+13:54:13	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/add.png
+13:54:15	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/loader_intelligent_search.gif -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/loader_intelligent_search.gif
+13:54:15	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/loader_intelligent_search.gif
+13:54:17	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_marketplace_detail_left.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_marketplace_detail_left.png
+13:54:17	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_marketplace_detail_left.png
+13:54:19	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_marketplace_detail_bottom.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_marketplace_detail_bottom.png
+13:54:19	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_marketplace_detail_bottom.png
+13:54:21	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/marketplace_more_fade.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/marketplace_more_fade.png
+13:54:21	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/marketplace_more_fade.png
+13:54:23	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons_sprite_up_down.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons_sprite_up_down.png
+13:54:23	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons_sprite_up_down.png
+13:54:25	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/marketplace_review_quote.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/marketplace_review_quote.png
+13:54:25	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/marketplace_review_quote.png
+13:54:30	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/arrow_down_black.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/arrow_down_black.png
+13:54:31	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/arrow_down_black.png
+13:54:32	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/arrow_up_black.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/arrow_up_black.png
+13:54:32	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/arrow_up_black.png
+13:54:35	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/excel.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/excel.png
+13:54:35	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/excel.png
+13:54:37	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/column.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/column.png
+13:54:37	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/column.png
+13:54:39	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/dashboard/sitemap/document.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/dashboard/sitemap/document.png
+13:54:39	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/dashboard/sitemap/document.png
+13:54:41	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/dashboard/sitemap/folder.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/dashboard/sitemap/folder.png
+13:54:41	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/dashboard/sitemap/folder.png
+13:54:43	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/dashboard/sitemap/loading.gif -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/dashboard/sitemap/loading.gif
+13:54:43	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/dashboard/sitemap/loading.gif
+13:54:45	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/dashboard/sitemap/dropzone_active.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/dashboard/sitemap/dropzone_active.png
+13:54:45	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/dashboard/sitemap/dropzone_active.png
+13:54:46	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/bc.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/bc.png
+13:54:46	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/bc.png
+13:54:49	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/newsflow_logo_welcome_back.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/newsflow_logo_welcome_back.png
+13:54:49	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/newsflow_logo_welcome_back.png
+13:54:52	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/newsflow_logo_welcome_first_run.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/newsflow_logo_welcome_first_run.png
+13:54:52	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/newsflow_logo_welcome_first_run.png
+13:54:55	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/newsflow_previous_white.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/newsflow_previous_white.png
+13:54:55	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/newsflow_previous_white.png
+13:54:57	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/newsflow_next_white.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/newsflow_next_white.png
+13:54:57	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/newsflow_next_white.png
+13:54:59	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/newsflow_previous.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/newsflow_previous.png
+13:54:59	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/newsflow_previous.png
+13:55:01	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/newsflow_next.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/newsflow_next.png
+13:55:01	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/newsflow_next.png
+13:55:06	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons_sprite.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons_sprite.png
+13:55:06	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons_sprite.png
+13:55:07	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_editor_concrete_caret.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_editor_concrete_caret.png
+13:55:07	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_editor_concrete_caret.png
+13:55:09	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/group.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/group.png
+13:55:09	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/group.png
+13:55:11	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/search.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/search.png
+13:55:11	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/search.png
+13:55:13	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/stack.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/stack.png
+13:55:13	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/stack.png
+13:55:15	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/wrench.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/wrench.png
+13:55:15	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icons/wrench.png
+13:55:17	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/dashboard/bg_header.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/dashboard/bg_header.png
+13:55:17	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/dashboard/bg_header.png
+13:55:19	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/dashboard/bg_header_active.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/dashboard/bg_header_active.png
+13:55:19	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/dashboard/bg_header_active.png
+13:55:21	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_header_editing_active.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_header_editing_active.png
+13:55:21	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_header_editing_active.png
+13:55:23	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icon_intelligent_search_mag.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icon_intelligent_search_mag.png
+13:55:23	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/icon_intelligent_search_mag.png
+13:55:25	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_intelligent_search.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_intelligent_search.png
+13:55:25	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_intelligent_search.png
+13:55:27	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_scroller.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_scroller.png
+13:55:27	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_scroller.png
+13:55:29	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/slider_bg.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/slider_bg.png
+13:55:29	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/slider_bg.png
+13:55:31	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/slider_knob_bg.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/slider_knob_bg.png
+13:55:31	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/slider_knob_bg.png
+13:55:33	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_trans.png -> www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_trans.png
+13:55:33	Info: 	File successfully written in background: www.closethedoor.org.uk/updates/concrete5.6.2.1_updater/concrete/images/bg_trans.png
+13:55:34	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/worcester-close-door-starts/ -> www.closethedoor.org.uk/news/archive/worcester-close-door-starts/index.html
+13:55:34	Info: 	engine: check-html: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=10
+13:55:36	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=11 -> www.closethedoor.org.uk/news/index8cfe.html
+13:55:38	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/manchester-evening-news-coverage/ -> www.closethedoor.org.uk/news/archive/manchester-evening-news-coverage/index.html
+13:55:40	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/borders-cambridge-statement/ -> www.closethedoor.org.uk/news/archive/borders-cambridge-statement/index.html
+13:55:42	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/were-back/ -> www.closethedoor.org.uk/news/archive/were-back/index.html
+13:55:44	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/guardian-coverage/ -> www.closethedoor.org.uk/news/archive/guardian-coverage/index.html
+13:55:46	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/bbc-video/ -> www.closethedoor.org.uk/news/archive/bbc-video/index.html
+13:55:48	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=29 -> www.closethedoor.org.uk/news/index95ce.html
+13:55:49	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=25 -> www.closethedoor.org.uk/news/index5237.html
+13:55:50	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=26 -> www.closethedoor.org.uk/news/indexb35a.html
+13:55:51	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=27 -> www.closethedoor.org.uk/news/indexac89.html
+13:55:52	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=28 -> www.closethedoor.org.uk/news/index08c0.html
+13:55:54	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/baker-street-quarter-bid-backs-campaign/ -> www.closethedoor.org.uk/news/archive/baker-street-quarter-bid-backs-campaign/index.html
+13:55:55	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/kings-college-london-research/ -> www.closethedoor.org.uk/news/archive/kings-college-london-research/index.html
+13:55:56	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/excellent-article-eastern-daily-press/ -> www.closethedoor.org.uk/news/archive/excellent-article-eastern-daily-press/index.html
+13:55:58	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/lsx-event-air-pollution/ -> www.closethedoor.org.uk/news/archive/lsx-event-air-pollution/index.html
+13:56:00	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/headquarters-eon-inefficient-energy-efficiency/ -> www.closethedoor.org.uk/news/archive/headquarters-eon-inefficient-energy-efficiency/index.html
+13:56:02	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/alliance-boots-welcomes-close-door-head-office-131113/ -> www.closethedoor.org.uk/news/archive/alliance-boots-welcomes-close-door-head-office-131113/index.html
+13:56:04	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/link-explained-between-climate-change-and-extreme-weather-events/ -> www.closethedoor.org.uk/news/archive/link-explained-between-climate-change-and-extreme-weather-events/index.html
+13:56:06	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/typhoon-haiyan/ -> www.closethedoor.org.uk/news/archive/typhoon-haiyan/index.html
+13:56:08	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/camden-and-islington-air-pollution-summit/ -> www.closethedoor.org.uk/news/archive/camden-and-islington-air-pollution-summit/index.html
+13:56:10	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/see-map-londons-wasted-heat/ -> www.closethedoor.org.uk/news/archive/see-map-londons-wasted-heat/index.html
+13:56:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/superdrug-starts-trial-of-closed-door-policy/ -> www.closethedoor.org.uk/news/archive/superdrug-starts-trial-of-closed-door-policy/index.html
+13:56:14	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/bbc-radio-broadcast-and-air-quality-summit/ -> www.closethedoor.org.uk/news/archive/bbc-radio-broadcast-and-air-quality-summit/index.html
+13:56:16	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/new-close-the-door-group-starts-in-lichfield/ -> www.closethedoor.org.uk/news/archive/new-close-the-door-group-starts-in-lichfield/index.html
+13:56:18	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/watershed-weekend/ -> www.closethedoor.org.uk/news/archive/watershed-weekend/index.html
+13:56:18	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/5613/5402/3909/basarir_presentation.pdf -> www.closethedoor.org.uk/index.php/download_file/view/64/140/index.html
+13:56:20	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/greenqloud-web-hosting-sponsorship/ -> www.closethedoor.org.uk/news/archive/greenqloud-web-hosting-sponsorship/index.html
+13:56:20	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/gla-air-quality-initiative-and-close-the-door/ -> www.closethedoor.org.uk/news/archive/gla-air-quality-initiative-and-close-the-door/index.html
+13:56:22	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/endorsement-from-vince-cable/ -> www.closethedoor.org.uk/news/archive/endorsement-from-vince-cable/index.html
+13:56:22	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/new-decc-report/ -> www.closethedoor.org.uk/news/archive/new-decc-report/index.html
+13:56:24	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/my-green-directory/ -> www.closethedoor.org.uk/news/archive/my-green-directory/index.html
+13:56:24	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/press-coverage-on-the-sustainable-city-awards/ -> www.closethedoor.org.uk/news/archive/press-coverage-on-the-sustainable-city-awards/index.html
+13:56:26	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/close-the-door-highly-commended-in-sustainable-cities-awards/ -> www.closethedoor.org.uk/news/archive/close-the-door-highly-commended-in-sustainable-cities-awards/index.html
+13:56:26	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/new-piece-on-close-the-door/ -> www.closethedoor.org.uk/news/archive/new-piece-on-close-the-door/index.html
+13:56:28	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/paramo-joins-the-campaign/ -> www.closethedoor.org.uk/news/archive/paramo-joins-the-campaign/index.html
+13:56:28	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/support-from-london-borough-of-richmond-upon-thames/ -> www.closethedoor.org.uk/news/archive/support-from-london-borough-of-richmond-upon-thames/index.html
+13:56:30	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/support-from-the-national-federation-of-womens-institutes/ -> www.closethedoor.org.uk/news/archive/support-from-the-national-federation-of-womens-institutes/index.html
+13:56:30	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/new-local-campaign-and-mp-endorsement-from-solihull/ -> www.closethedoor.org.uk/news/archive/new-local-campaign-and-mp-endorsement-from-solihull/index.html
+13:56:32	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/get-involved-in-climate-week-2013-running-4th-10th-march/ -> www.closethedoor.org.uk/news/archive/get-involved-in-climate-week-2013-running-4th-10th-march/index.html
+13:56:32	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/npower-blog/ -> www.closethedoor.org.uk/news/archive/npower-blog/index.html
+13:56:34	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/new-article-from-rtcc/ -> www.closethedoor.org.uk/news/archive/new-article-from-rtcc/index.html
+13:56:34	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/youngest-ever-ctd-representative-gets-zac-goldsmiths-endorsement/ -> www.closethedoor.org.uk/news/archive/youngest-ever-ctd-representative-gets-zac-goldsmiths-endorsement/index.html
+13:56:36	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/good-housekeeping-jan-2013/ -> www.closethedoor.org.uk/news/archive/good-housekeeping-jan-2013/index.html
+13:56:36	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/red-magazine-blog-supports-the-campaign/ -> www.closethedoor.org.uk/news/archive/red-magazine-blog-supports-the-campaign/index.html
+13:56:38	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/the-times-coverage-as-the-cold-season-starts/ -> www.closethedoor.org.uk/news/archive/the-times-coverage-as-the-cold-season-starts/index.html
+13:56:38	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/best-campaign-climate-week-awards-2012/ -> www.closethedoor.org.uk/news/archive/best-campaign-climate-week-awards-2012/index.html
+13:56:40	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/climate-week-awards-today/ -> www.closethedoor.org.uk/news/archive/climate-week-awards-today/index.html
+13:56:40	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/campaign-endorsement-by-the-secretary-of-state-for-energy/ -> www.closethedoor.org.uk/news/archive/campaign-endorsement-by-the-secretary-of-state-for-energy/index.html
+13:56:41	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/costa-come-into-campaign-nationwide/ -> www.closethedoor.org.uk/news/archive/costa-come-into-campaign-nationwide/index.html
+13:56:41	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/climate-week-best-campaign-award-finalist/ -> www.closethedoor.org.uk/news/archive/climate-week-best-campaign-award-finalist/index.html
+13:56:42	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/and-now-for-ely/ -> www.closethedoor.org.uk/news/archive/and-now-for-ely/index.html
+13:56:42	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/ctd-cited-in-the-economist/ -> www.closethedoor.org.uk/news/archive/ctd-cited-in-the-economist/index.html
+13:56:43	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/sir-richard-lambert-former-director-general-of-the-cbi-2006-2011-backs-the-campaign/ -> www.closethedoor.org.uk/news/archive/sir-richard-lambert-former-director-general-of-the-cbi-2006-2011-backs-the-campaign/index.html
+13:56:43	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/warmer-weather-and-the-campaign/ -> www.closethedoor.org.uk/news/archive/warmer-weather-and-the-campaign/index.html
+13:56:44	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/coverage-in-the-geographer-rsgs/ -> www.closethedoor.org.uk/news/archive/coverage-in-the-geographer-rsgs/index.html
+13:56:44	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/xchangeteam-freelancer-of-the-year-award-2011/ -> www.closethedoor.org.uk/news/archive/xchangeteam-freelancer-of-the-year-award-2011/index.html
+13:56:46	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/bristol-ctd-for-climate-week/ -> www.closethedoor.org.uk/news/archive/bristol-ctd-for-climate-week/index.html
+13:56:46	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/usdaw-releases-statement/ -> www.closethedoor.org.uk/news/archive/usdaw-releases-statement/index.html
+13:56:48	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/fenwick-support/ -> www.closethedoor.org.uk/news/archive/fenwick-support/index.html
+13:56:48	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/claire-perry-mp-for-devizes-gives-her-support/ -> www.closethedoor.org.uk/news/archive/claire-perry-mp-for-devizes-gives-her-support/index.html
+13:56:50	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/and-now-support-from-the-john-lewis-partnership/ -> www.closethedoor.org.uk/news/archive/and-now-support-from-the-john-lewis-partnership/index.html
+13:56:50	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/wickestravis-perkins-backs-the-campaign/ -> www.closethedoor.org.uk/news/archive/wickestravis-perkins-backs-the-campaign/index.html
+13:56:52	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/usdaw-supports-the-campaign/ -> www.closethedoor.org.uk/news/archive/usdaw-supports-the-campaign/index.html
+13:56:52	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/eco-schools-on-ctd/ -> www.closethedoor.org.uk/news/archive/eco-schools-on-ctd/index.html
+13:56:54	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/mands-backs-campaign/ -> www.closethedoor.org.uk/news/archive/mands-backs-campaign/index.html
+13:56:54	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/support-from-selfridges-and-co/ -> www.closethedoor.org.uk/news/archive/support-from-selfridges-and-co/index.html
+13:56:55	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/caroline-lucas-lends-her-support/ -> www.closethedoor.org.uk/news/archive/caroline-lucas-lends-her-support/index.html
+13:56:55	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/born-tells-how-closing-the-door-really-works-for-business/ -> www.closethedoor.org.uk/news/archive/born-tells-how-closing-the-door-really-works-for-business/index.html
+13:56:56	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/nomination-for-xchangteams-freelancer-of-the-year-award/ -> www.closethedoor.org.uk/news/archive/nomination-for-xchangteams-freelancer-of-the-year-award/index.html
+13:56:56	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/aspace-childrens-retailer-of-the-year-2010-supports-close-the-door/ -> www.closethedoor.org.uk/news/archive/aspace-childrens-retailer-of-the-year-2010-supports-close-the-door/index.html
+13:56:57	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/boris-johnson-endorses-ctd-for-london/ -> www.closethedoor.org.uk/news/archive/boris-johnson-endorses-ctd-for-london/index.html
+13:56:57	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/bbc-radio-bristol-271210/ -> www.closethedoor.org.uk/news/archive/bbc-radio-bristol-271210/index.html
+13:56:58	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/you-and-yours-feature-231210/ -> www.closethedoor.org.uk/news/archive/you-and-yours-feature-231210/index.html
+13:56:58	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/significant-bristol-charity-retailer-joins-the-campaign/ -> www.closethedoor.org.uk/news/archive/significant-bristol-charity-retailer-joins-the-campaign/index.html
+13:56:59	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/sunday-times-191210/ -> www.closethedoor.org.uk/news/archive/sunday-times-191210/index.html
+13:56:59	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/property-week-171210/ -> www.closethedoor.org.uk/news/archive/property-week-171210/index.html
+13:57:00	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/park-st-event-in-bristol-today/ -> www.closethedoor.org.uk/news/archive/park-st-event-in-bristol-today/index.html
+13:57:00	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/ryman-join-the-campaign/ -> www.closethedoor.org.uk/news/archive/ryman-join-the-campaign/index.html
+13:57:01	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/ctd-question-in-welsh-assembly/ -> www.closethedoor.org.uk/news/archive/ctd-question-in-welsh-assembly/index.html
+13:57:01	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/more-press-independent.../ -> www.closethedoor.org.uk/news/archive/more-press-independent/index.html
+13:57:02	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/more-coverage/ -> www.closethedoor.org.uk/news/archive/more-coverage/index.html
+13:57:02	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/the-times-61210/ -> www.closethedoor.org.uk/news/archive/the-times-61210/index.html
+13:57:03	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/endorsement-from-mp-andy-slaughter/ -> www.closethedoor.org.uk/news/archive/endorsement-from-mp-andy-slaughter/index.html
+13:57:03	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/ctd-early-day-motion-in-the-house-of-commons/ -> www.closethedoor.org.uk/news/archive/ctd-early-day-motion-in-the-house-of-commons/index.html
+13:57:04	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/the-last-two-weeks/ -> www.closethedoor.org.uk/news/archive/the-last-two-weeks/index.html
+13:57:04	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/ctd-at-the-energy-committee-of-the-london-assembly/ -> www.closethedoor.org.uk/news/archive/ctd-at-the-energy-committee-of-the-london-assembly/index.html
+13:57:05	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/london-support-from-emily-thornberry-mp/ -> www.closethedoor.org.uk/news/archive/london-support-from-emily-thornberry-mp/index.html
+13:57:05	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/media-coverage-291110/ -> www.closethedoor.org.uk/news/archive/media-coverage-291110/index.html
+13:57:06	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/bristol-and-support-from-charlotte-leslie-mp/ -> www.closethedoor.org.uk/news/archive/bristol-and-support-from-charlotte-leslie-mp/index.html
+13:57:06	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/more-media-coverage-251110/ -> www.closethedoor.org.uk/news/archive/more-media-coverage-251110/index.html
+13:57:07	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/scientific-evidence-media-coverage-241110/ -> www.closethedoor.org.uk/news/archive/scientific-evidence-media-coverage-241110/index.html
+13:57:07	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/press-release-on-new-data-showing-vast-winter-energy-savings-from-closing-the-store-door/ -> www.closethedoor.org.uk/news/archive/press-release-on-new-data-showing-vast-winter-energy-savings-from-closing-the-store-door/index.html
+13:57:08	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/julian-huppert-mp-for-cambridge-with-ctd/ -> www.closethedoor.org.uk/news/archive/julian-huppert-mp-for-cambridge-with-ctd/index.html
+13:57:08	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/support-for-ctd-from-mike-berners-lee/ -> www.closethedoor.org.uk/news/archive/support-for-ctd-from-mike-berners-lee/index.html
+13:57:09	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/endorsement-from-mike-tuffrey-am-london-assembly/ -> www.closethedoor.org.uk/news/archive/endorsement-from-mike-tuffrey-am-london-assembly/index.html
+13:57:09	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/not-new-but-news-refs/ -> www.closethedoor.org.uk/news/archive/not-new-but-news-refs/index.html
+13:57:10	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/stephen-williams-mp-endorses-the-campaign/ -> www.closethedoor.org.uk/news/archive/stephen-williams-mp-endorses-the-campaign/index.html
+13:57:10	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/bristol-ctd/ -> www.closethedoor.org.uk/news/archive/bristol-ctd/index.html
+13:57:11	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/kerry-mccarthy-endorses-the-campaign/ -> www.closethedoor.org.uk/news/archive/kerry-mccarthy-endorses-the-campaign/index.html
+13:57:11	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/anne-milton-statement-of-support/ -> www.closethedoor.org.uk/news/archive/anne-milton-statement-of-support/index.html
+13:57:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/ctd-bristol/ -> www.closethedoor.org.uk/news/archive/ctd-bristol/index.html
+13:57:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/cambridge-university-engineering-department-research-project/ -> www.closethedoor.org.uk/news/archive/cambridge-university-engineering-department-research-project/index.html
+13:57:13	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/ctd-twitter-campaign-please-do-your-bit/ -> www.closethedoor.org.uk/news/archive/ctd-twitter-campaign-please-do-your-bit/index.html
+13:57:13	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/close-the-door-in-the-guardian-and-on-you-and-yours-radio-4/ -> www.closethedoor.org.uk/news/archive/close-the-door-in-the-guardian-and-on-you-and-yours-radio-4/index.html
+13:57:14	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/york-city-takes-off/ -> www.closethedoor.org.uk/news/archive/york-city-takes-off/index.html
+13:57:14	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/independent-research-project-for-ctd-with-university-of-cambridge/ -> www.closethedoor.org.uk/news/archive/independent-research-project-for-ctd-with-university-of-cambridge/index.html
+13:57:15	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/carbon-trust-and-british-retail-consortium-join-project-steering-group/ -> www.closethedoor.org.uk/news/archive/carbon-trust-and-british-retail-consortium-join-project-steering-group/index.html
+13:57:15	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/carbon-trust-in-collaboration-with-ctd/ -> www.closethedoor.org.uk/news/archive/carbon-trust-in-collaboration-with-ctd/index.html
+13:57:16	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/radio-4-you-and-yours-interview/ -> www.closethedoor.org.uk/news/archive/radio-4-you-and-yours-interview/index.html
+13:57:16	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/your-input-needed/ -> www.closethedoor.org.uk/news/archive/your-input-needed/index.html
+13:57:17	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/photos-of-open-doors-in-the-snow-please/ -> www.closethedoor.org.uk/news/archive/photos-of-open-doors-in-the-snow-please/index.html
+13:57:17	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/cen-environment-agency-sponsored-award-for-close-the-door/ -> www.closethedoor.org.uk/news/archive/cen-environment-agency-sponsored-award-for-close-the-door/index.html
+13:57:18	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/more-publicity-at-christmas/ -> www.closethedoor.org.uk/news/archive/more-publicity-at-christmas/index.html
+13:57:18	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/peter-hanson-on-bbc-radio-devon-21208/ -> www.closethedoor.org.uk/news/archive/peter-hanson-on-bbc-radio-devon-21208/index.html
+13:57:19	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/close-the-door-starts-in-york-on-nov-17/ -> www.closethedoor.org.uk/news/archive/close-the-door-starts-in-york-on-nov-17/index.html
+13:57:19	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/three-counties-radio/ -> www.closethedoor.org.uk/news/archive/three-counties-radio/index.html
+13:57:20	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/national-publicity-on-radio-5-live/ -> www.closethedoor.org.uk/news/archive/national-publicity-on-radio-5-live/index.html
+13:57:20	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/the-campaign-starts-in-westminster-61108/ -> www.closethedoor.org.uk/news/archive/the-campaign-starts-in-westminster-61108/index.html
+13:57:21	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/daily-telegraph-letters-to-the-editor-nov-5th/ -> www.closethedoor.org.uk/news/archive/daily-telegraph-letters-to-the-editor-nov-5th/index.html
+13:57:21	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/country-casuals-are-closing-their-doors/ -> www.closethedoor.org.uk/news/archive/country-casuals-are-closing-their-doors/index.html
+13:57:22	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/northallerton-joins-up/ -> www.closethedoor.org.uk/news/archive/northallerton-joins-up/index.html
+13:57:22	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/private-members-bill-for-ctd/ -> www.closethedoor.org.uk/news/archive/private-members-bill-for-ctd/index.html
+13:57:24	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/prof-sir-david-king-and-cross-party-mp-endorsements/ -> www.closethedoor.org.uk/news/archive/prof-sir-david-king-and-cross-party-mp-endorsements/index.html
+13:57:24	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/statement-from-david-howarth-mp/ -> www.closethedoor.org.uk/news/archive/statement-from-david-howarth-mp/index.html
+13:57:26	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/archive/more-coverage-from-the-north-of-england/ -> www.closethedoor.org.uk/news/archive/more-coverage-from-the-north-of-england/index.html
+13:57:26	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=5&ccm_paging_p=2 -> www.closethedoor.org.uk/search/indexa605.html
+13:57:28	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=5&ccm_paging_p=3 -> www.closethedoor.org.uk/search/index6078.html
+13:57:28	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=12&ccm_paging_p=2 -> www.closethedoor.org.uk/search/index51f6.html
+13:57:30	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/archive/?ccm_paging_p_b814=2 -> www.closethedoor.org.uk/support/participating-retailers/archive/indexbc2f.html
+13:57:30	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/?ccm_paging_p_b443=2 -> www.closethedoor.org.uk/support/endorsements/archive/index228f.html
+13:57:32	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/?ccm_paging_p_b443=3 -> www.closethedoor.org.uk/support/endorsements/archive/index112b.html
+13:57:32	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/?ccm_paging_p_b443=4 -> www.closethedoor.org.uk/support/endorsements/archive/indexbf51.html
+13:57:34	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=9&ccm_paging_p=2 -> www.closethedoor.org.uk/search/indexee15.html
+13:57:34	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=10&ccm_paging_p=2 -> www.closethedoor.org.uk/search/index6f5e.html
+13:57:35	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=10&ccm_paging_p=3 -> www.closethedoor.org.uk/search/index44ef.html
+14:00:44	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/9813/5402/3922/poster.pdf -> www.closethedoor.org.uk/index.php/download_file/view/69/176/index.html
+14:00:44	Info: 	File successfully written in background: www.closethedoor.org.uk/index.php/download_file/view/69/176/index.html
+14:01:08	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/3713/5402/3915/basarir-report.pdf -> www.closethedoor.org.uk/index.php/download_file/view/65/140/index.html
+14:01:08	Info: 	engine: check-html: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=8
+14:01:08	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/new-mp-heidi-allen-backs/
+14:01:08	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/daniel-zeichner-first-new-mps-support/
+14:01:08	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/campaign-talk-city-london-forum/
+14:01:08	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/comment-dr-ben-barratt-air-pollution-retai/
+14:01:08	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/research-results-air-pollution-shops-everyone-needs-know/
+14:01:08	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=1
+14:01:08	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=7
+14:01:08	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/3113/8537/7812/bd8aaad9ce0c496484983a7e72eac901.png -> www.closethedoor.org.uk/files/3113/8537/7812/bd8aaad9ce0c496484983a7e72eac901.png
+14:01:09	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/4213/8503/4089/c7c09ea7e158487b835e3770c5e11e5f.png -> www.closethedoor.org.uk/files/4213/8503/4089/c7c09ea7e158487b835e3770c5e11e5f.png
+14:01:10	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/4213/8496/7647/LSx.jpg -> www.closethedoor.org.uk/files/4213/8496/7647/LSx.jpg
+14:01:11	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/1213/8496/7382/4896157deb474d2086ebeb09ecae7f32.jpg -> www.closethedoor.org.uk/files/1213/8496/7382/4896157deb474d2086ebeb09ecae7f32.jpg
+14:01:12	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/home-retail-group-backs-campaign/
+14:01:12	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/bristol-post-coverage/
+14:01:12	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/westminster-social-policy-forum/
+14:01:12	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=8
+14:01:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=12 -> www.closethedoor.org.uk/news/index3b1a.html
+14:01:14	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/5413/8496/7165/boots.png -> www.closethedoor.org.uk/files/5413/8496/7165/boots.png
+14:01:14	Info: 	File successfully written in background: www.closethedoor.org.uk/files/5413/8496/7165/boots.png
+14:01:14	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/9113/8496/6959/typhoon.jpg -> www.closethedoor.org.uk/files/9113/8496/6959/typhoon.jpg
+14:01:14	Info: 	File successfully written in background: www.closethedoor.org.uk/files/9113/8496/6959/typhoon.jpg
+14:01:14	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/1713/8496/6763/0bb561f0edb04d5ebb5016a5bcedf4b7.jpg -> www.closethedoor.org.uk/files/1713/8496/6763/0bb561f0edb04d5ebb5016a5bcedf4b7.jpg
+14:01:14	Info: 	File successfully written in background: www.closethedoor.org.uk/files/1713/8496/6763/0bb561f0edb04d5ebb5016a5bcedf4b7.jpg
+14:01:15	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/9313/8496/6529/camden_logo.png -> www.closethedoor.org.uk/files/9313/8496/6529/camden_logo.png
+14:01:17	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/mistake-highlights-exceptions-close-door-rule/
+14:01:17	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/natalie-bennettleader-green-party-endorsement/
+14:01:17	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/files/3914/1876/4380/9aa891219a00436fb9209587df85ca08.jpg (from www.closethedoor.org.uk/news/?ccm_paging_p_b505=4)
+14:01:17	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/daily-mail-online-15th-december/
+14:01:18	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=13 -> www.closethedoor.org.uk/news/indexc339.html
+14:01:18	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/news/archive/daily-mail-online-15th-december/bit.ly/gkhk6w
+14:01:18	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/news/bit.ly/gkhk6w (from www.closethedoor.org.uk/news/?ccm_paging_p_b505=4)
+14:01:18	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/retail-environment-novdec-coverage/
+14:01:18	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/air-pollution-hazards-health-busy-streetsshop-doors/
+14:01:18	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/files/9314/1720/5467/7933f58595ff478991f2a694ddf03870.jpg (from www.closethedoor.org.uk/news/?ccm_paging_p_b505=4)
+14:01:18	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=9
+14:01:20	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/1813/8496/2798/31038a8f33dd4cfea751f321f121aa5a.png -> www.closethedoor.org.uk/files/1813/8496/2798/31038a8f33dd4cfea751f321f121aa5a.png
+14:01:20	Info: 	File successfully written in background: www.closethedoor.org.uk/files/1813/8496/2798/31038a8f33dd4cfea751f321f121aa5a.png
+14:01:20	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/9313/8259/4302/superdrug-magenta.gif -> www.closethedoor.org.uk/files/9313/8259/4302/superdrug-magenta.gif
+14:01:20	Info: 	File successfully written in background: www.closethedoor.org.uk/files/9313/8259/4302/superdrug-magenta.gif
+14:01:20	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/5813/8259/3606/bbc-logo.jpg -> www.closethedoor.org.uk/files/5813/8259/3606/bbc-logo.jpg
+14:01:20	Info: 	File successfully written in background: www.closethedoor.org.uk/files/5813/8259/3606/bbc-logo.jpg
+14:01:24	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/9613/6584/2891/Greenqloud_blue.png -> www.closethedoor.org.uk/files/9613/6584/2891/Greenqloud_blue.png
+14:01:24	Info: 	File successfully written in background: www.closethedoor.org.uk/files/9613/6584/2891/Greenqloud_blue.png
+14:01:24	Info: 	engine: transfer-status: link error (301, 'Moved Permanently'): www.greenpeace.org/international/Global/international/publications/climate/2012/iCoal/HowCleanisYourCloud.pdf
+14:01:28	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/4813/8177/0477/MCoJan13.jpg -> www.closethedoor.org.uk/files/4813/8177/0477/MCoJan13.jpg
+14:01:28	Info: 	File successfully written in background: www.closethedoor.org.uk/files/4813/8177/0477/MCoJan13.jpg
+14:01:28	Info: 	engine: transfer-status: link error (301, 'Moved Permanently'): https://www.greenpeace.org/international/Global/international/publications/climate/2012/iCoal/HowCleanisYourCloud.pdf
+14:01:28	Info: 	engine: transfer-status: link error (301, 'Moved Permanently'): https://www.greenpeace.org/archive-international/Global/international/publications/climate/2012/iCoal/HowCleanisYourCloud.pdf
+14:01:31	Info: 	engine: transfer-status: link error (302, 'FOUND'): https://wayback.archive-it.org/9650/20200417013545/http://p3-raw.greenpeace.org/international/Global/international/publications/climate/2012/iCoal/HowCleanisYourCloud.pdf
+14:01:34	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/bristol-launches-crowdfunder-2015-project/
+14:01:34	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/smithsonian-official-climate-change-statement/
+14:01:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/files/5014/1717/3987/c46e6d154306427c99aca5fc9e01483b.jpg (from www.closethedoor.org.uk/news/?ccm_paging_p_b505=5)
+14:01:34	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/campaign-peoples-march-against-climate-change-21st-september/
+14:01:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/files/3714/1717/2785/afb701b71532429c8cfb08fa1c4926c7.jpg (from www.closethedoor.org.uk/news/?ccm_paging_p_b505=5)
+14:01:34	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/support-campaign-paul-maynard-mp/
+14:01:34	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/files/3014/0294/1032/ec7bab77960746bb8bcbff0f36800f0b.png (from www.closethedoor.org.uk/news/?ccm_paging_p_b505=5)
+14:01:34	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=10
+14:01:34	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=14 -> www.closethedoor.org.uk/news/index71cd.html
+14:01:36	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/files/1913/6505/9120/vince-cable-news.jpg
+14:01:38	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.closethedoor.org.uk/files/4213/6447/2700/eddavey.jpg
+14:01:39	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/londonist-out-loud-podcast/
+14:01:39	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/new-sunday-times-coverage/
+14:01:39	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/city-westminster-councillor-supports-campaign/
+14:01:39	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/worcester-close-door-starts/
+14:01:39	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=11
+14:01:40	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/4913/6389/5413/Evening_Standard_logo.png -> www.closethedoor.org.uk/files/4913/6389/5413/Evening_Standard_logo.png
+14:01:40	Info: 	File successfully written in background: www.closethedoor.org.uk/files/4913/6389/5413/Evening_Standard_logo.png
+14:01:40	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=15 -> www.closethedoor.org.uk/news/index0b7c.html
+14:01:46	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/8813/6215/0314/rbra.png -> www.closethedoor.org.uk/files/8813/6215/0314/rbra.png
+14:01:46	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/2913/6439/8208/sustainablecityawards.jpg -> www.closethedoor.org.uk/files/2913/6439/8208/sustainablecityawards.jpg
+14:01:46	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/5313/6117/0453/npower.png -> www.closethedoor.org.uk/files/5313/6117/0453/npower.png
+14:01:46	Info: 	File successfully written in background: www.closethedoor.org.uk/files/8813/6215/0314/rbra.png
+14:01:46	Info: 	File successfully written in background: www.closethedoor.org.uk/files/2913/6439/8208/sustainablecityawards.jpg
+14:01:46	Info: 	File successfully written in background: www.closethedoor.org.uk/files/5313/6117/0453/npower.png
+14:01:50	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/manchester-evening-news-coverage/
+14:01:50	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/borders-cambridge-statement/
+14:01:50	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/were-back/
+14:01:50	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/guardian-coverage/
+14:01:50	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/bbc-video/
+14:01:50	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=29
+14:01:50	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/3213/6214/7130/thewi-news-2.png -> www.closethedoor.org.uk/files/3213/6214/7130/thewi-news-2.png
+14:01:50	Info: 	File successfully written in background: www.closethedoor.org.uk/files/3213/6214/7130/thewi-news-2.png
+14:01:50	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=16 -> www.closethedoor.org.uk/news/index0d4a.html
+14:01:51	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=25
+14:01:52	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=24 -> www.closethedoor.org.uk/news/index9fe7.html
+14:01:52	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=26
+14:01:52	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=20 -> www.closethedoor.org.uk/news/indexa245.html
+14:01:52	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=21 -> www.closethedoor.org.uk/news/index065c.html
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=27
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=28
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/baker-street-quarter-bid-backs-campaign/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/kings-college-london-research/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/excellent-article-eastern-daily-press/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/lsx-event-air-pollution/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/headquarters-eon-inefficient-energy-efficiency/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/alliance-boots-welcomes-close-door-head-office-131113/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/link-explained-between-climate-change-and-extreme-weather-events/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/typhoon-haiyan/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/camden-and-islington-air-pollution-summit/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/see-map-londons-wasted-heat/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/superdrug-starts-trial-of-closed-door-policy/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/bbc-radio-broadcast-and-air-quality-summit/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/new-close-the-door-group-starts-in-lichfield/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/watershed-weekend/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/greenqloud-web-hosting-sponsorship/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/gla-air-quality-initiative-and-close-the-door/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/endorsement-from-vince-cable/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/new-decc-report/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/my-green-directory/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/press-coverage-on-the-sustainable-city-awards/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/close-the-door-highly-commended-in-sustainable-cities-awards/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/new-piece-on-close-the-door/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/paramo-joins-the-campaign/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/support-from-london-borough-of-richmond-upon-thames/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/support-from-the-national-federation-of-womens-institutes/
+14:01:53	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/new-local-campaign-and-mp-endorsement-from-solihull/
+14:01:54	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=22 -> www.closethedoor.org.uk/news/indexaf6e.html
+14:01:54	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/get-involved-in-climate-week-2013-running-4th-10th-march/
+14:01:54	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=23 -> www.closethedoor.org.uk/news/indexabe8.html
+14:01:58	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/npower-blog/
+14:01:58	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/new-article-from-rtcc/
+14:02:00	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/3913/6137/3330/cw2013-news.png -> www.closethedoor.org.uk/files/3913/6137/3330/cw2013-news.png
+14:02:00	Info: 	File successfully written in background: www.closethedoor.org.uk/files/3913/6137/3330/cw2013-news.png
+14:02:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/youngest-ever-ctd-representative-gets-zac-goldsmiths-endorsement/
+14:02:02	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/3113/6162/7203/solihull.jpg -> www.closethedoor.org.uk/files/3113/6162/7203/solihull.jpg
+14:02:02	Info: 	File successfully written in background: www.closethedoor.org.uk/files/3113/6162/7203/solihull.jpg
+14:02:02	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/5213/6065/5841/rtcc-logo.png -> www.closethedoor.org.uk/files/5213/6065/5841/rtcc-logo.png
+14:02:02	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/good-housekeeping-jan-2013/
+14:02:02	Info: 	File successfully written in background: www.closethedoor.org.uk/files/5213/6065/5841/rtcc-logo.png
+14:02:06	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/red-magazine-blog-supports-the-campaign/
+14:02:08	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/8313/5819/8982/goodhousekeeping.gif -> www.closethedoor.org.uk/files/8313/5819/8982/goodhousekeeping.gif
+14:02:08	Info: 	File successfully written in background: www.closethedoor.org.uk/files/8313/5819/8982/goodhousekeeping.gif
+14:02:10	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/the-times-coverage-as-the-cold-season-starts/
+14:02:12	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/cc3eddc5ffadf0fe6fdf747ab068a4b6_f86.gif -> www.closethedoor.org.uk/files/cache/cc3eddc5ffadf0fe6fdf747ab068a4b6_f86.gif
+14:02:12	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/cc3eddc5ffadf0fe6fdf747ab068a4b6_f86.gif
+14:02:12	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/best-campaign-climate-week-awards-2012/
+14:02:14	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/3813/6033/8287/zak-goldsmith-2.jpg -> www.closethedoor.org.uk/files/3813/6033/8287/zak-goldsmith-2.jpg
+14:02:14	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/4aaf75f74342a97ffa0c95b77eab3052_f85.gif -> www.closethedoor.org.uk/files/cache/4aaf75f74342a97ffa0c95b77eab3052_f85.gif
+14:02:14	Info: 	File successfully written in background: www.closethedoor.org.uk/files/3813/6033/8287/zak-goldsmith-2.jpg
+14:02:14	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/4aaf75f74342a97ffa0c95b77eab3052_f85.gif
+14:02:16	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/climate-week-awards-today/
+14:02:16	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/campaign-endorsement-by-the-secretary-of-state-for-energy/
+14:02:16	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/3513/5437/0228/cw-blog.jpg -> www.closethedoor.org.uk/files/3513/5437/0228/cw-blog.jpg
+14:02:16	Info: 	File successfully written in background: www.closethedoor.org.uk/files/3513/5437/0228/cw-blog.jpg
+14:02:20	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/costa-come-into-campaign-nationwide/
+14:02:20	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/climate-week-best-campaign-award-finalist/
+14:02:20	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/and-now-for-ely/
+14:02:20	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/6be00a56b7ae20ef2f793bc95d637683_f87.jpg -> www.closethedoor.org.uk/files/cache/6be00a56b7ae20ef2f793bc95d637683_f87.jpg
+14:02:20	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/6be00a56b7ae20ef2f793bc95d637683_f87.jpg
+14:02:24	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/ctd-cited-in-the-economist/
+14:02:24	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/e437f5263925c0beff5e43cafb7c81f4_f83.jpg -> www.closethedoor.org.uk/files/cache/e437f5263925c0beff5e43cafb7c81f4_f83.jpg
+14:02:24	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/e437f5263925c0beff5e43cafb7c81f4_f83.jpg
+14:02:28	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/sir-richard-lambert-former-director-general-of-the-cbi-2006-2011-backs-the-campaign/
+14:02:28	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/13204e2b8e7d603555d2c0dc0dd5d6f5_f81.gif -> www.closethedoor.org.uk/files/cache/13204e2b8e7d603555d2c0dc0dd5d6f5_f81.gif
+14:02:28	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/13204e2b8e7d603555d2c0dc0dd5d6f5_f81.gif
+14:02:30	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/warmer-weather-and-the-campaign/
+14:02:32	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/coverage-in-the-geographer-rsgs/
+14:02:34	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/4003e8bdb920b971f7d9c8925f21573c_f82.png -> www.closethedoor.org.uk/files/cache/4003e8bdb920b971f7d9c8925f21573c_f82.png
+14:02:34	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/598b38c7b9b197ee9935572478fa02f0_f88.jpg -> www.closethedoor.org.uk/files/cache/598b38c7b9b197ee9935572478fa02f0_f88.jpg
+14:02:34	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/4003e8bdb920b971f7d9c8925f21573c_f82.png
+14:02:34	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/598b38c7b9b197ee9935572478fa02f0_f88.jpg
+14:02:36	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/99a4e3bc666220bf1da03dd3b76203e1_f91.gif -> www.closethedoor.org.uk/files/cache/99a4e3bc666220bf1da03dd3b76203e1_f91.gif
+14:02:36	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/99a4e3bc666220bf1da03dd3b76203e1_f91.gif
+14:02:38	Info: 	engine: transfer-status: link error (301, 'Moved Permanently'): www.rsgs.org/publications/TheGeographer-Spring11.pdf
+14:02:38	Info: 	engine: transfer-status: link error (404, 'Not Found'): https://www.rsgs.org/publications/TheGeographer-Spring11.pdf
+14:02:38	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/xchangeteam-freelancer-of-the-year-award-2011/
+14:02:42	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/ae2eab8a9ac3da7cdbad780f41e5bb5b_f89.png -> www.closethedoor.org.uk/files/cache/ae2eab8a9ac3da7cdbad780f41e5bb5b_f89.png
+14:02:42	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/ae2eab8a9ac3da7cdbad780f41e5bb5b_f89.png
+14:02:42	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/bristol-ctd-for-climate-week/
+14:02:44	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/usdaw-releases-statement/
+14:02:46	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/5413/5439/0227/freelancer_of_the_year.jpg -> www.closethedoor.org.uk/files/5413/5439/0227/freelancer_of_the_year.jpg
+14:02:46	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/2f95abdc97a7e421e1de824f0a9f4a2b_f92.jpg -> www.closethedoor.org.uk/files/cache/2f95abdc97a7e421e1de824f0a9f4a2b_f92.jpg
+14:02:46	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/fenwick-support/
+14:02:46	Info: 	File successfully written in background: www.closethedoor.org.uk/files/5413/5439/0227/freelancer_of_the_year.jpg
+14:02:46	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/2f95abdc97a7e421e1de824f0a9f4a2b_f92.jpg
+14:02:46	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/ab8dabd46ff706ea321e54a9a895592f_f93.png -> www.closethedoor.org.uk/files/cache/ab8dabd46ff706ea321e54a9a895592f_f93.png
+14:02:46	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/ab8dabd46ff706ea321e54a9a895592f_f93.png
+14:02:50	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/claire-perry-mp-for-devizes-gives-her-support/
+14:02:50	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/dbb441fe7d04d081e66b5526c6bc9f0b_f95.jpg -> www.closethedoor.org.uk/files/cache/dbb441fe7d04d081e66b5526c6bc9f0b_f95.jpg
+14:02:50	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/dbb441fe7d04d081e66b5526c6bc9f0b_f95.jpg
+14:02:54	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/and-now-support-from-the-john-lewis-partnership/
+14:02:54	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/1e38366dc9d6b353243ff559b81a3474_f94.jpg -> www.closethedoor.org.uk/files/cache/1e38366dc9d6b353243ff559b81a3474_f94.jpg
+14:02:54	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/1e38366dc9d6b353243ff559b81a3474_f94.jpg
+14:02:58	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/8913/5443/7204/Waitrose_logo.jpg -> www.closethedoor.org.uk/files/8913/5443/7204/Waitrose_logo.jpg
+14:02:58	Info: 	File successfully written in background: www.closethedoor.org.uk/files/8913/5443/7204/Waitrose_logo.jpg
+14:03:02	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/wickestravis-perkins-backs-the-campaign/
+14:03:02	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/ec5021f8ec7da6d7341bf181c54c7692_f99.gif -> www.closethedoor.org.uk/files/cache/ec5021f8ec7da6d7341bf181c54c7692_f99.gif
+14:03:02	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/ec5021f8ec7da6d7341bf181c54c7692_f99.gif
+14:03:06	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/6113/5443/6940/Travis_Perkins.jpg -> www.closethedoor.org.uk/files/6113/5443/6940/Travis_Perkins.jpg
+14:03:06	Info: 	File successfully written in background: www.closethedoor.org.uk/files/6113/5443/6940/Travis_Perkins.jpg
+14:03:10	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/usdaw-supports-the-campaign/
+14:03:10	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/4213/5443/6947/Wickes.jpg -> www.closethedoor.org.uk/files/4213/5443/6947/Wickes.jpg
+14:03:10	Info: 	File successfully written in background: www.closethedoor.org.uk/files/4213/5443/6947/Wickes.jpg
+14:03:12	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/eco-schools-on-ctd/
+14:03:14	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/41be90167d3b38c0390cfa60f02746a1_f93.png -> www.closethedoor.org.uk/files/cache/41be90167d3b38c0390cfa60f02746a1_f93.png
+14:03:14	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/41be90167d3b38c0390cfa60f02746a1_f93.png
+14:03:14	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/mands-backs-campaign/
+14:03:16	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/4713/5444/3065/ECO_POD_Logo_RGB.png -> www.closethedoor.org.uk/files/4713/5444/3065/ECO_POD_Logo_RGB.png
+14:03:16	Info: 	File successfully written in background: www.closethedoor.org.uk/files/4713/5444/3065/ECO_POD_Logo_RGB.png
+14:03:16	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/support-from-selfridges-and-co/
+14:03:18	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/5613/5444/3205/MS_logo.png -> www.closethedoor.org.uk/files/5613/5444/3205/MS_logo.png
+14:03:18	Info: 	File successfully written in background: www.closethedoor.org.uk/files/5613/5444/3205/MS_logo.png
+14:03:18	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/caroline-lucas-lends-her-support/
+14:03:20	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/2513/5444/3359/selfridges_2.gif -> www.closethedoor.org.uk/files/2513/5444/3359/selfridges_2.gif
+14:03:20	Info: 	File successfully written in background: www.closethedoor.org.uk/files/2513/5444/3359/selfridges_2.gif
+14:03:22	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/born-tells-how-closing-the-door-really-works-for-business/
+14:03:22	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/nomination-for-xchangteams-freelancer-of-the-year-award/
+14:03:22	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/f0326060fb3e176bbd652b9f3be5daff_f104.jpg -> www.closethedoor.org.uk/files/cache/f0326060fb3e176bbd652b9f3be5daff_f104.jpg
+14:03:22	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/f0326060fb3e176bbd652b9f3be5daff_f104.jpg
+14:03:24	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/aspace-childrens-retailer-of-the-year-2010-supports-close-the-door/
+14:03:26	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/d3e10c94f82d15e6eb578a1423e57a7e_f106.jpg -> www.closethedoor.org.uk/files/cache/d3e10c94f82d15e6eb578a1423e57a7e_f106.jpg
+14:03:26	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/d3e10c94f82d15e6eb578a1423e57a7e_f106.jpg
+14:03:26	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/boris-johnson-endorses-ctd-for-london/
+14:03:28	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/3db9438232ffb7c2bc65985ac9839976_f105.jpg -> www.closethedoor.org.uk/files/cache/3db9438232ffb7c2bc65985ac9839976_f105.jpg
+14:03:28	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/3db9438232ffb7c2bc65985ac9839976_f105.jpg
+14:03:28	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/bbc-radio-bristol-271210/
+14:03:28	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/you-and-yours-feature-231210/
+14:03:28	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/significant-bristol-charity-retailer-joins-the-campaign/
+14:03:30	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/5309742e31cef659f72656c131458598_f107.jpg -> www.closethedoor.org.uk/files/cache/5309742e31cef659f72656c131458598_f107.jpg
+14:03:30	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/5309742e31cef659f72656c131458598_f107.jpg
+14:03:30	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/sunday-times-191210/
+14:03:32	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/4fd5ff7b49ac983104a0c958f78fe887_f111.jpg -> www.closethedoor.org.uk/files/cache/4fd5ff7b49ac983104a0c958f78fe887_f111.jpg
+14:03:32	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/4fd5ff7b49ac983104a0c958f78fe887_f111.jpg
+14:03:34	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/property-week-171210/
+14:03:34	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/5913/5444/5017/sunday-times.jpg -> www.closethedoor.org.uk/files/5913/5444/5017/sunday-times.jpg
+14:03:34	Info: 	File successfully written in background: www.closethedoor.org.uk/files/5913/5444/5017/sunday-times.jpg
+14:03:38	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/park-st-event-in-bristol-today/
+14:03:38	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/ryman-join-the-campaign/
+14:03:38	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/7cd8a5ce06876cc13373bbe387c05530_f108.png -> www.closethedoor.org.uk/files/cache/7cd8a5ce06876cc13373bbe387c05530_f108.png
+14:03:38	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/7cd8a5ce06876cc13373bbe387c05530_f108.png
+14:03:42	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/ctd-question-in-welsh-assembly/
+14:03:42	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/3313/5444/5472/ryman.jpg -> www.closethedoor.org.uk/files/3313/5444/5472/ryman.jpg
+14:03:42	Info: 	File successfully written in background: www.closethedoor.org.uk/files/3313/5444/5472/ryman.jpg
+14:03:44	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/more-press-independent.../
+14:03:46	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/5485e164a35dc86c607c75d6aadfc611_f113.gif -> www.closethedoor.org.uk/files/cache/5485e164a35dc86c607c75d6aadfc611_f113.gif
+14:03:46	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/5485e164a35dc86c607c75d6aadfc611_f113.gif
+14:03:46	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/more-coverage/
+14:03:46	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/the-times-61210/
+14:03:46	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/endorsement-from-mp-andy-slaughter/
+14:03:48	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/6613/5444/5803/independent_masthead.png -> www.closethedoor.org.uk/files/6613/5444/5803/independent_masthead.png
+14:03:48	Info: 	File successfully written in background: www.closethedoor.org.uk/files/6613/5444/5803/independent_masthead.png
+14:03:50	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/ctd-early-day-motion-in-the-house-of-commons/
+14:03:50	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/the-last-two-weeks/
+14:03:50	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/ctd-at-the-energy-committee-of-the-london-assembly/
+14:03:50	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/15b968a5ff2d175809d6843f7689025e_f117.jpg -> www.closethedoor.org.uk/files/cache/15b968a5ff2d175809d6843f7689025e_f117.jpg
+14:03:50	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/15b968a5ff2d175809d6843f7689025e_f117.jpg
+14:03:54	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/london-support-from-emily-thornberry-mp/
+14:03:54	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/f44c834920db0b81788a0c8f2b174ec6_f115.JPG -> www.closethedoor.org.uk/files/cache/f44c834920db0b81788a0c8f2b174ec6_f115.jpg
+14:03:54	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/f44c834920db0b81788a0c8f2b174ec6_f115.jpg
+14:03:58	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/media-coverage-291110/
+14:03:58	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/bristol-and-support-from-charlotte-leslie-mp/
+14:03:58	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/more-media-coverage-251110/
+14:03:58	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/scientific-evidence-media-coverage-241110/
+14:03:58	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/press-release-on-new-data-showing-vast-winter-energy-savings-from-closing-the-store-door/
+14:03:58	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/julian-huppert-mp-for-cambridge-with-ctd/
+14:03:58	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/cache/83c799a19fc8fa0a777afb015defc196_f118.jpg -> www.closethedoor.org.uk/files/cache/83c799a19fc8fa0a777afb015defc196_f118.jpg
+14:03:58	Info: 	File successfully written in background: www.closethedoor.org.uk/files/cache/83c799a19fc8fa0a777afb015defc196_f118.jpg
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/support-for-ctd-from-mike-berners-lee/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/endorsement-from-mike-tuffrey-am-london-assembly/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/not-new-but-news-refs/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/stephen-williams-mp-endorses-the-campaign/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/bristol-ctd/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/kerry-mccarthy-endorses-the-campaign/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/anne-milton-statement-of-support/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/ctd-bristol/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/cambridge-university-engineering-department-research-project/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/ctd-twitter-campaign-please-do-your-bit/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/close-the-door-in-the-guardian-and-on-you-and-yours-radio-4/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/york-city-takes-off/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/independent-research-project-for-ctd-with-university-of-cambridge/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/carbon-trust-and-british-retail-consortium-join-project-steering-group/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/carbon-trust-in-collaboration-with-ctd/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/radio-4-you-and-yours-interview/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/your-input-needed/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/photos-of-open-doors-in-the-snow-please/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/cen-environment-agency-sponsored-award-for-close-the-door/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/more-publicity-at-christmas/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/peter-hanson-on-bbc-radio-devon-21208/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/close-the-door-starts-in-york-on-nov-17/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/three-counties-radio/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/national-publicity-on-radio-5-live/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/the-campaign-starts-in-westminster-61108/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/daily-telegraph-letters-to-the-editor-nov-5th/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/country-casuals-are-closing-their-doors/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/northallerton-joins-up/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/private-members-bill-for-ctd/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/prof-sir-david-king-and-cross-party-mp-endorsements/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/statement-from-david-howarth-mp/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/news/archive/more-coverage-from-the-north-of-england/
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=5&ccm_paging_p=2
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=5&ccm_paging_p=3
+14:04:00	Info: 	engine: check-html: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=12&ccm_paging_p=2
+14:04:02	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/files/1013/5444/8556/CtD_with_Julian1.jpg -> www.closethedoor.org.uk/files/1013/5444/8556/CtD_with_Julian1.jpg
+14:04:02	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/archive/?ccm_paging_p_b814=2
+14:04:02	Info: 	File successfully written in background: www.closethedoor.org.uk/files/1013/5444/8556/CtD_with_Julian1.jpg
+14:04:02	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=5&ccm_paging_p=1 -> www.closethedoor.org.uk/search/index32f9.html
+14:04:02	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=12&ccm_paging_p=1 -> www.closethedoor.org.uk/search/indexa6ea.html
+14:04:02	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/?ccm_paging_p_b443=2
+14:04:02	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/?ccm_paging_p_b443=3
+14:04:02	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/?ccm_paging_p_b443=4
+14:04:02	Info: 	engine: check-html: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=9&ccm_paging_p=2
+14:04:04	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/participating-retailers/archive/?ccm_paging_p_b814=1 -> www.closethedoor.org.uk/support/participating-retailers/archive/indexdfd0.html
+14:04:04	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/support/endorsements/archive/?ccm_paging_p_b443=1 -> www.closethedoor.org.uk/support/endorsements/archive/index88cf.html
+14:04:04	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=9&ccm_paging_p=1 -> www.closethedoor.org.uk/search/index8a82.html
+14:04:04	Info: 	engine: check-html: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=10&ccm_paging_p=2
+14:04:04	Info: 	engine: check-html: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=10&ccm_paging_p=3
+14:04:04	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=12
+14:04:04	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=13
+14:04:06	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=10&ccm_paging_p=1 -> www.closethedoor.org.uk/search/index7f84.html
+14:04:06	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=17 -> www.closethedoor.org.uk/news/index462e.html
+14:04:06	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=18 -> www.closethedoor.org.uk/news/index540d.html
+14:04:06	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/news/archive/daily-mail-online-15th-december/bit.ly/gkhk6w (from www.closethedoor.org.uk/news/archive/daily-mail-online-15th-december/)
+14:04:06	Info: 	engine: transfer-status: link recorded: https://wayback.archive-it.org/9650/20200405222805/http://p3-raw.greenpeace.org/international/Global/international/publications/climate/2012/iCoal/HowCleanisYourCloud.pdf -> wayback.archive-it.org/9650/20200405222805/http_/p3-raw.greenpeace.org/international/Global/international/publications/climate/2012/iCoal/HowCleanisYourCloud.pdf
+14:04:06	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=14
+14:04:06	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/files/1913/6505/9120/vince-cable-news.jpg (from www.closethedoor.org.uk/news/?ccm_paging_p_b505=10)
+14:04:06	Error: 	"Not Found" (404) at link www.closethedoor.org.uk/files/4213/6447/2700/eddavey.jpg (from www.closethedoor.org.uk/news/?ccm_paging_p_b505=10)
+14:04:06	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=15
+14:04:06	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=16
+14:04:06	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=24
+14:04:06	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=20
+14:04:06	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=21
+14:04:06	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=22
+14:04:06	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=23
+14:04:06	Error: 	"Not Found" (404) at link https://www.rsgs.org/publications/TheGeographer-Spring11.pdf (from www.closethedoor.org.uk/news/archive/coverage-in-the-geographer-rsgs/)
+14:04:06	Info: 	engine: check-html: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=5&ccm_paging_p=1
+14:04:06	Info: 	engine: check-html: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=12&ccm_paging_p=1
+14:04:06	Info: 	engine: check-html: www.closethedoor.org.uk/support/participating-retailers/archive/?ccm_paging_p_b814=1
+14:04:06	Info: 	engine: check-html: www.closethedoor.org.uk/support/endorsements/archive/?ccm_paging_p_b443=1
+14:04:06	Info: 	engine: check-html: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=9&ccm_paging_p=1
+14:04:06	Info: 	engine: check-html: www.closethedoor.org.uk/search/?akID[13][atSelectOptionID][]=10&ccm_paging_p=1
+14:04:06	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=17
+14:04:06	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=18
+14:04:08	Info: 	engine: transfer-status: link recorded: www.closethedoor.org.uk/news/?ccm_paging_p_b505=19 -> www.closethedoor.org.uk/news/index89d5.html
+14:04:08	Info: 	engine: check-html: www.closethedoor.org.uk/news/?ccm_paging_p_b505=19
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 minutes 58 seconds : 601 links scanned, 560 files written (25762443 bytes overall) [23018231 bytes received at 20226 bytes/sec], 4219009 bytes transferred using HTTP compression in 315 files, ratio 28%, 5.8 requests per connection
+(29 errors, 22 warnings, 1114 messages)
+14:04:08	Info: 	engine: end
+14:04:08	Info: 	hashtable "back_new" summary: size=512 (lg2=9) used=0 stash-size=0 pool-size=88 pool-capacity=512 pool-used=0 writes=424 (new=424) moved=81 stashed=0 max-stash-size=0 avg-moved=0.191038 rehash=5 pool-compact=11 pool-realloc=8 memory=13424
+14:04:08	Info: 	hashtable "cache_hashtable" summary: size=16 (lg2=4) used=0 stash-size=0 pool-size=0 pool-capacity=0 pool-used=0 writes=0 (new=0) moved=0 stashed=0 max-stash-size=0 avg-moved=-nan rehash=0 pool-compact=0 pool-realloc=0 memory=1008
+14:04:08	Info: 	hashtable "cache_tests" summary: size=32 (lg2=5) used=10 stash-size=0 pool-size=869 pool-capacity=1024 pool-used=869 writes=10 (new=10) moved=0 stashed=0 max-stash-size=0 avg-moved=0 rehash=1 pool-compact=0 pool-realloc=3 memory=2416
+14:04:08	Info: 	hashtable "hash->sav" summary: size=2048 (lg2=11) used=595 stash-size=0 pool-size=0 pool-capacity=0 pool-used=0 writes=602 (new=595) moved=275 stashed=0 max-stash-size=0 avg-moved=0.462185 rehash=7 pool-compact=0 pool-realloc=0 memory=49776
+14:04:08	Info: 	hashtable "hash->adrfil" summary: size=2048 (lg2=11) used=602 stash-size=0 pool-size=0 pool-capacity=0 pool-used=0 writes=602 (new=602) moved=409 stashed=4 max-stash-size=3 avg-moved=0.679402 rehash=7 pool-compact=0 pool-realloc=0 memory=49776
+14:04:08	Info: 	hashtable "hash->former_adrfil" summary: size=16 (lg2=4) used=3 stash-size=0 pool-size=0 pool-capacity=0 pool-used=0 writes=602 (new=3) moved=0 stashed=0 max-stash-size=0 avg-moved=0 rehash=0 pool-compact=0 pool-realloc=0 memory=1008
