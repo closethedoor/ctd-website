@@ -1,1 +1,1 @@
-httrack www.closethedoor.org.uk -z
+httrack -z +*.pdf --update www.closethedoor.org.uk
