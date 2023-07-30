@@ -178,7 +178,7 @@ ul.sf-menu li li li.sfHover ul {
 	height:10px;
 	text-indent:-999em;
 	overflow:hidden;
-	background:url(http://ctd-staging.maisey.co.uk/packages/theme_slate/themes/slate/images/arrows-ffffff.png) no-repeat -10px -100px; /* 8-bit indexed alpha png. IE6 gets solid image only */
+	background:url(../../../../packages/theme_slate/themes/slate/images/arrows-ffffff.png) no-repeat -10px -100px; /* 8-bit indexed alpha png. IE6 gets solid image only */
 }
 a > .sf-sub-indicator {  /* give all except IE6 the correct values */
 	top:0.8em;
@@ -207,7 +207,7 @@ li.sfHover > a > .sf-sub-indicator {
 
 /*** shadows for all but IE6 ***/
 .sf-shadow ul {
-	background:	url(http://ctd-staging.maisey.co.uk/packages/theme_slate/themes/slate/images/shadow.png) no-repeat bottom right;
+	background:	url(../../../../packages/theme_slate/themes/slate/images/shadow.png) no-repeat bottom right;
 	padding: 0 8px 9px 0;
 	-moz-border-radius-bottomleft: 17px;
 	-moz-border-radius-topright: 17px;
@@ -598,26 +598,26 @@ ul.ccm-search-block-tag-cloud li a {
 	margin:0 2px;
 }
 .date {
-	background-image:url(http://ctd-staging.maisey.co.uk/packages/theme_slate/themes/slate/images/icons/calendar.png);
+	background-image:url(../../../../packages/theme_slate/themes/slate/images/icons/calendar.png);
 }
 .tags {
-	background-image:url(http://ctd-staging.maisey.co.uk/packages/theme_slate/themes/slate/images/icons/tag.png);
+	background-image:url(../../../../packages/theme_slate/themes/slate/images/icons/tag.png);
 }
 .comments, h4.guestBook-title {
-	background-image:url(http://ctd-staging.maisey.co.uk/packages/theme_slate/themes/slate/images/icons/comments.png);
+	background-image:url(../../../../packages/theme_slate/themes/slate/images/icons/comments.png);
 }
 .user {
-	background-image:url(http://ctd-staging.maisey.co.uk/packages/theme_slate/themes/slate/images/icons/user.png);
+	background-image:url(../../../../packages/theme_slate/themes/slate/images/icons/user.png);
 	padding-left:15px;
 }
 .star {
-	background-image:url(http://ctd-staging.maisey.co.uk/packages/theme_slate/themes/slate/images/icons/star.png);
+	background-image:url(../../../../packages/theme_slate/themes/slate/images/icons/star.png);
 }
 .settings {
-	background-image:url(http://ctd-staging.maisey.co.uk/packages/theme_slate/themes/slate/images/icons/settings.png);
+	background-image:url(../../../../packages/theme_slate/themes/slate/images/icons/settings.png);
 }
 .view {
-	background-image:url(http://ctd-staging.maisey.co.uk/packages/theme_slate/themes/slate/images/icons/view.png);
+	background-image:url(../../../../packages/theme_slate/themes/slate/images/icons/view.png);
 }
 
 
