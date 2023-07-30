@@ -1,4 +1,5 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
 www.closethedoor.org.uk	TRUE	/	FALSE	1999999999	CONCRETE5	m4eokd80sj9skbsikmrbhctuq4
+ctd-staging.maisey.uk	TRUE	/	FALSE	1999999999	CONCRETE5	aha8cmbc1kv02rqq2hp986mgf5
 
