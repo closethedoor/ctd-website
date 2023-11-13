@@ -1,5 +1,5 @@
 -z +*.pdf -%A pdf=application/octet-stream -iC2 ctd-staging.maisey.uk
-File generated automatically on Sun, 30 Jul 2023 20:04:51, do NOT edit
+File generated automatically on Mon, 13 Nov 2023 23:41:54, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
